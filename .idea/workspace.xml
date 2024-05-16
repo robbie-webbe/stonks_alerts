@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b20d424-72a2-44cf-a550-54ee5bc093d9" name="Changes" comment="" />
+    <list default="true" id="4b20d424-72a2-44cf-a550-54ee5bc093d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/obslist_myhp_gpponti.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/STONKS_alerts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/STONKS_alerts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088602.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088603.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088604.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088606.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088607.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088608.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088609.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088610.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088611.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_088612.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_091679.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_091680.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_091681.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_093219.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_093220.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_093420.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obslist_093421.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +36,55 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gPlQZ6S8r35EfMvF1MBj4sH28x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/rwebbe/Gits/STONKS_alerts"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.obs_mli_proc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rwebbe/Gits/STONKS_alerts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="obs_mli_proc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="STONKS_alerts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/obs_mli_proc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.obs_mli_proc" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,6 +102,9 @@
       <updated>1715607077737</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="OPEN_GENERIC_TABS">
@@ -74,6 +137,11 @@
               </option>
               <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
