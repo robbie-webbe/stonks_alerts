@@ -52,14 +52,14 @@ No. alerts:													56
 
 **0886100901**
 + Source 112 - Artefact in image (reflection ring)
-+ Source 207 - no image
-+ Source 208 - no image
++ Source 207 - Artefact in image (reflection ring)
++ Source 208 - Artefact in image (reflection ring)
 
 **0886101301**
 + Source 179
 
 **0886110301**
-+ Source 51 - no image
++ Source 51 - m2 image only
 
 **0886110501**
 + Source 19
