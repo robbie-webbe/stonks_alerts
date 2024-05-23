@@ -12,121 +12,119 @@ would ordinarily still be covered by a proprietary period.
 
 Observations for the period from 01/07/2023 - present
 
-No. observations:										84
+No. observations with alerts (total observations) :		27  (84)
 
-No. observations with alerts:				27
-
-No. alerts:													56
+No. true object alerts (total alerts):   24  (56)
 
 
 ### Individual Observation Analysis
 
 **0886090801**
-+ Source 1
-+ Source 22
++ Source 1 - True source. Look further. Screenshot created.
++ Source 22 - True source. Look further. Screenshot created.
 
 **0886090901**
-+ Source 340 - Artefact in image (reflection ring)
-+ Source 370 - Artefact in image (reflection ring)
++ Source 340 - False detection. Artefact in image (reflection ring)
++ Source 370 - False detection. Artefact in image (reflection ring)
 
 **0886100201**
-+ Source 79
++ Source 79 - True source. Look further. Screenshot created.
 
 **0886100301**
-+ Source 23 - Artefact in image (reflection ring)
-+ Source 50 - Artefact in image (reflection ring)
-+ Source 51 - Artefact in image (reflection ring)
-+ Source 55 - Artefact in image (reflection ring)
-+ Source 79 - Artefact in image (reflection ring)
-+ Source 84 - Artefact in image (reflection ring)
++ Source 23 - False detection. Artefact in image (reflection ring)
++ Source 50 - False detection. Artefact in image (reflection ring)
++ Source 51 - False detection. Artefact in image (reflection ring)
++ Source 55 - False detection. Artefact in image (reflection ring)
++ Source 79 - False detection. Artefact in image (reflection ring)
++ Source 84 - False detection. Artefact in image (reflection ring)
 
 **0886100801**
-+ Source 3 - Artefact in image (reflection ring)
-+ Source 8 - Artefact in image (reflection ring)
-+ Source 9 - Artefact in image (reflection ring)
-+ Source 10 - Artefact in image (reflection ring)
-+ Source 34 - Artefact in image (reflection ring)
-+ Source 58 - Artefact in image (reflection ring)
-+ Source 143 - off PN image, check MOS
-+ Source 263 - off PN image, check MOS
++ Source 3 - False detection. Artefact in image (reflection ring)
++ Source 8 - False detection. Artefact in image (reflection ring)
++ Source 9 - False detection. Artefact in image (reflection ring)
++ Source 10 - False detection. Artefact in image (reflection ring)
++ Source 34 - False detection. Artefact in image (reflection ring)
++ Source 58 - False detection. Artefact in image (reflection ring)
++ Source 143 - False detection. Artefact in image (reflection ring)
++ Source 263 - False detection. Artefact in image (reflection ring)
 
 **0886100901**
-+ Source 112 - Artefact in image (reflection ring)
-+ Source 207 - Artefact in image (reflection ring)
-+ Source 208 - Artefact in image (reflection ring)
++ Source 112 - False detection. Artefact in image (reflection ring)
++ Source 207 - False detection. Artefact in image (reflection ring)
++ Source 208 - False detection. Artefact in image (reflection ring)
 
 **0886101301**
-+ Source 179
++ Source 179 - True source. Look further. Screenshot created.
 
 **0886110301**
-+ Source 51 - m2 image only
++ Source 51 - True source. Look further. Screenshot created.
 
 **0886110501**
-+ Source 19
++ Source 19 - True source. Look further. Screenshot created.
 
 **0886110901**
-+ Source 33 - no image
++ Source 33 - True source. Look further. Screenshot created.
 
 **0916811401**
-+ Source 1
-+ Source 3
-+ Source 17 - no image
++ Source 1 - True source. Look further. Screenshot created.
++ Source 3 - True source. Look further. Screenshot created.
++ Source 17 - True source. Look further. Screenshot created.
 
 **0916811901**
-+ Source 1
++ Source 1 - True source. Look further. Screenshot created.
 
 **0932190601**
-+ Source 2 - Detection contaminated by artefact in image (reflection ring)
++ Source 2 - False detection. Artefact in image (reflection ring)
 
 **0932190801**
-+ Source 1
++ Source 1 - True source. Look further. Screenshot created.
 
 **0932190901**
-+ Source 1
++ Source 1 - True source. Look further. Screenshot created.
 
 **0932191001**
-+ Source 43 - no image
++ Source 43 - False detection. Artefact in image (reflection ring)
 
 **0932191101**
-+ Source 1
++ Source 1 - True source. Look further. Screenshot created.
 
 **0932200101**
-+ Source 1
-+ Source 17 - no image
-+ Source 49 - no image
-+ Source 61 - no image
++ Source 1 - True source. Look further. Screenshot created.
++ Source 17 - True source. Look further. Screenshot created.
++ Source 49 - Artefact in image (reflection ring)
++ Source 61 - Artefact in image (reflection ring)
 
 **0932201001**
-+ Source 87 - no image
-+ Source 177 - no image
++ Source 87 - False detection. Artefact in image (reflection ring)
++ Source 177 - False detection. Artefact in image (reflection ring)
 
 **0932201101**
-+ Source 30
-+ Source 156 - no image
-+ Source 241 - no image
-+ Source 242 - no image
++ Source 30 - True source. Look further. Screenshot created.
++ Source 156 - True source. Look further. Screenshot created.
++ Source 241 - Artefact in image (reflection ring)
++ Source 242 - Artefact in image (reflection ring)
 
 **0934200101**
-+ Source 30
++ Source 30 - True source. Look further. Screenshot created.
 
 **0934200501**
-+ Source 18 - Artefact in image (reflection ring)
-+ Source 19 - Artefact in image (reflection ring)
-+ Source 23 - Artefact in image (reflection ring)
-+ Source 71 - Artefact in image (reflection ring)
++ Source 18 - False detection. Artefact in image (reflection ring)
++ Source 19 - False detection. Artefact in image (reflection ring)
++ Source 23 - False detection. Artefact in image (reflection ring)
++ Source 71 - False detection. Artefact in image (reflection ring)
 
 **0934200801**
-+ Source 5
-+ Source 11 - no image
++ Source 5 - True source. Look further. Screenshot created.
++ Source 11 - Caution - Possible read-out line contamination. Screenshot created.
 
 **0934201001**
-+ Source 19 - no image
++ Source 19 - True source. Look further. Screenshot created.
 
 **0934210201**
-+ Source 9 - no image
++ Source 9 - Caution - Possible read-out line contamination. Screenshot created
 
 **0934210301**
-+ Source 6
++ Source 6 - True source. Look further. Screenshot created
 
 **0934210501**
-+ Source 25 - Artefact in image (out of time events)
++ Source 25 - False detection. Artefact in image (out of time events)
