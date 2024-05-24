@@ -20,15 +20,15 @@ No. true object alerts (total alerts):   24  (56)
 ### Individual Observation Analysis
 
 **0886090801**
-+ Source 1 - True source. Look further. Screenshot created.
-+ Source 22 - True source. Look further. Screenshot created.
++ Source 1 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? Star. 
++ Source 22 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0886090901**
 + Source 340 - False detection. Artefact in image (reflection ring)
 + Source 370 - False detection. Artefact in image (reflection ring)
 
 **0886100201**
-+ Source 79 - True source. Look further. Screenshot created.
++ Source 79 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0886100301**
 + Source 23 - False detection. Artefact in image (reflection ring)
@@ -54,58 +54,58 @@ No. true object alerts (total alerts):   24  (56)
 + Source 208 - False detection. Artefact in image (reflection ring)
 
 **0886101301**
-+ Source 179 - True source. Look further. Screenshot created.
++ Source 179 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
 
 **0886110301**
-+ Source 51 - True source. Look further. Screenshot created.
++ Source 51 - True source. M2. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0886110501**
-+ Source 19 - True source. Look further. Screenshot created.
++ Source 19 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
 
 **0886110901**
-+ Source 33 - True source. Look further. Screenshot created.
++ Source 33 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0916811401**
-+ Source 1 - True source. Look further. Screenshot created.
-+ Source 3 - True source. Look further. Screenshot created.
-+ Source 17 - True source. Look further. Screenshot created.
++ Source 1 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N. 
++ Source 3 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
++ Source 17 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
 
 **0916811901**
-+ Source 1 - True source. Look further. Screenshot created.
++ Source 1 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
 
 **0932190601**
 + Source 2 - False detection. Artefact in image (reflection ring)
 
 **0932190801**
-+ Source 1 - True source. Look further. Screenshot created.
++ Source 1 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? Unknown type.
 
 **0932190901**
-+ Source 1 - True source. Look further. Screenshot created.
++ Source 1 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? Star.
 
 **0932191001**
 + Source 43 - False detection. Artefact in image (reflection ring)
 
 **0932191101**
-+ Source 1 - True source. Look further. Screenshot created.
++ Source 1 - True source. M2. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? Unknown type.
 
 **0932200101**
-+ Source 1 - True source. Look further. Screenshot created.
-+ Source 17 - True source. Look further. Screenshot created.
-+ Source 49 - Artefact in image (reflection ring)
-+ Source 61 - Artefact in image (reflection ring)
++ Source 1 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
++ Source 17 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
++ Source 49 - False detection. Artefact in image (reflection ring)
++ Source 61 - False detection. Artefact in image (reflection ring)
 
 **0932201001**
 + Source 87 - False detection. Artefact in image (reflection ring)
 + Source 177 - False detection. Artefact in image (reflection ring)
 
 **0932201101**
-+ Source 30 - True source. Look further. Screenshot created.
-+ Source 156 - True source. Look further. Screenshot created.
-+ Source 241 - Artefact in image (reflection ring)
-+ Source 242 - Artefact in image (reflection ring)
++ Source 30 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
++ Source 156 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
++ Source 241 - False detection. Artefact in image (reflection ring)
++ Source 242 - False detection. Artefact in image (reflection ring)
 
 **0934200101**
-+ Source 30 - True source. Look further. Screenshot created.
++ Source 30 - True source. PN. Look further. Screenshot created. First X-ray Detection? N. SIMBAD? N.
 
 **0934200501**
 + Source 18 - False detection. Artefact in image (reflection ring)
@@ -114,17 +114,17 @@ No. true object alerts (total alerts):   24  (56)
 + Source 71 - False detection. Artefact in image (reflection ring)
 
 **0934200801**
-+ Source 5 - True source. Look further. Screenshot created.
-+ Source 11 - Caution - Possible read-out line contamination. Screenshot created.
++ Source 5 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
++ Source 11 - PN. Caution - Possible read-out line contamination. Screenshot created. First X-ray Detection? N. SIMBAD? N
 
 **0934201001**
-+ Source 19 - True source. Look further. Screenshot created.
++ Source 19 - True source. M1 U5. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0934210201**
-+ Source 9 - Caution - Possible read-out line contamination. Screenshot created
++ Source 9 - PN. Caution - Possible read-out line contamination. Screenshot created. First X-ray Detection? N. SIMBAD? N.
 
 **0934210301**
-+ Source 6 - True source. Look further. Screenshot created
++ Source 6 - True source. PN. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0934210501**
 + Source 25 - False detection. Artefact in image (out of time events)
