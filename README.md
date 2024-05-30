@@ -20,7 +20,7 @@ No. true object alerts (total alerts):   24  (56)
 ### Individual Observation Analysis
 
 **0886090801**
-+ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? Star. 
++ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. Hard lightcurve. First X-ray Detection? N. SIMBAD? Star. 
 + Source 22 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? Y. SIMBAD? N.
 
 **0886090901**
@@ -66,21 +66,21 @@ No. true object alerts (total alerts):   24  (56)
 + Source 33 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? Y. SIMBAD? N.
 
 **0916811401**
-+ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? N. 
-+ Source 3 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? N.
++ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. Soft lightcurve. First X-ray Detection? N. SIMBAD? N. 
++ Source 3 - True source. PN. Look further. Screenshot, lightcurve created. Hard lightcurve. First X-ray Detection? N. SIMBAD? N.
 + Source 17 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? N.
 
 **0916811901**
-+ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? N.
++ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. Soft lightcurve. First X-ray Detection? N. SIMBAD? N.
 
 **0932190601**
 + Source 2 - False detection. Artefact in image (reflection ring)
 
 **0932190801**
-+ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? Unknown type.
++ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. Hard lightcurve. First X-ray Detection? N. SIMBAD? Unknown type.
 
 **0932190901**
-+ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? Star.
++ Source 1 - True source. PN. Look further. Screenshot, lightcurve created. Hard dips in lightcurve. First X-ray Detection? N. SIMBAD? Star.
 
 **0932191001**
 + Source 43 - False detection. Artefact in image (reflection ring)
@@ -105,7 +105,7 @@ No. true object alerts (total alerts):   24  (56)
 + Source 242 - False detection. Artefact in image (reflection ring)
 
 **0934200101**
-+ Source 30 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? N. SIMBAD? N.
++ Source 30 - True source. PN. Look further. Screenshot, lightcurve created. Hard variability. First X-ray Detection? N. SIMBAD? N.
 
 **0934200501**
 + Source 18 - False detection. Artefact in image (reflection ring)
