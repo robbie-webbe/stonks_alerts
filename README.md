@@ -21,7 +21,7 @@ No. true object alerts (total alerts):   24  (56)
 
 **0886090801**
 + Source 1 - True source. PN. Look further. Screenshot, lightcurve created. Hard lightcurve. First X-ray Detection? N. SIMBAD? Star. 
-+ Source 22 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? Y. SIMBAD? N.
++ Source 22 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? Y. SIMBAD? N. Nearest Gaia 	4067641690762865024	0.04' (2.5")
 
 **0886090901**
 + Source 340 - False detection. Artefact in image (reflection ring)
