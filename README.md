@@ -121,8 +121,7 @@ No. true object alerts (total alerts):   24  (56)
 + Source 19 - True source. M1 U5. Look further. Screenshot created. First X-ray Detection? Y. SIMBAD? N.
 
 **0934210201**
-+ Source 9 - PN. Caution - Possible read-out line contamination. Screenshot created. First X-ray Detection? N. SIMBAD? N.
-
++ Source 9 - Likely false detection. Artefact in image (readout line).
 **0934210301**
 + Source 6 - True source. PN. Look further. Screenshot, lightcurve created. First X-ray Detection? Y. SIMBAD? N.  Nearest Gaia 4057256562888695680 6.6", 4057256558571593216 7.7", 4057256562908951168 8.3", 4057256558579538176 10.0". X-ray pos error 0.59".
 
