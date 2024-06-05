@@ -14,7 +14,7 @@ Observations for the period from 01/07/2023 - present
 
 No. observations with alerts (total observations) :		27  (84)
 
-No. true object alerts (total alerts):   24  (56)
+No. true object alerts (total alerts):   23  (56)
 
 
 ### Individual Observation Analysis
