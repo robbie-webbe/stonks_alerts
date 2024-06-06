@@ -16,6 +16,8 @@ No. observations with alerts (total observations) :		27  (84)
 
 No. true object alerts (total alerts):   23  (56)
 
+No. true objects of further interest (total true object alerts):   14   (23)
+
 
 ### Individual Observation Analysis
 
@@ -26,13 +28,15 @@ No. true object alerts (total alerts):   23  (56)
     * Gaia source 4067633238255477248. Distance 1.8kpc.
     * Fit to spec with nH 0.44 x 10^22, and power law 1.36.
     * Est luminosity 3.42 x 10^33 erg/s.
+    * To do - check for periodicity.
 
 + Source 22 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
     * Nearest Gaia 4067641690762865024 2.7", Gaia 4067641690720946432 4.2". X-ray pos error 1.2".
     * Possible distance 1.66kpc.
     * Fit to spec with nH 0.15 x 10^22 and power law 0.719.
-    * Est luminosity 7.54 x 10^31 erg/s at 1.66kpc 
+    * Est luminosity 7.54 x 10^31 erg/s at 1.66kpc
+    * No exceptional features for further interest.
 
 **0886090901**
 + Source 340 - False detection. Artefact in image (reflection ring)
@@ -45,6 +49,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 1.23kpc.
     * Fit to spec with nH 1.78 x 10^22 and power law 1.48.
     * Est luminosity 5.38 x 10^31 erg/s at 1.23kpc.
+    * No exceptional features for further interest.
 
 **0886100301**
 + Source 23 - False detection. Artefact in image (reflection ring)
@@ -77,6 +82,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 1.53kpc.
     * Fit to spec with nH 0.52 x 10^22 and power law 2.55.
     * Est luminosity 7.77 x 10^31 at 1.53 kpc.
+    * Need to check earlier observations. Increasing luminosity with time? Spectral changes?
 
 **0886110301**
 + Source 51 - True source. M2. Screenshot, lightcurve, and spectra created.
@@ -85,6 +91,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distances 378pc or 9.6kpc.
     * Fit to spec with nH 3.1 x 10^17 and power law -0.517.
     * Est luminosity 7.2 x 10^30 erg/s at 378pc or 4.61 x 10^33 erg/s at 9.6kpc.
+    * No exceptional features for further interest. Could check position against other X-ray observatories? FLIX?
 
 **0886110501**
 + Source 19 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -95,6 +102,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 107pc.
     * Fit to spec with nH 53 x 10^22 and kT 0.419keV.
     * Est luminosity 1.24 x 10^29 erg/s at 107pc.
+    * Need to check earlier observations. Increasing luminosity with time? Spectral changes? Hard dips?
 
 **0886110901**
 + Source 33 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -104,6 +112,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 2.55kpc.
     * Fit to spec with nH 0.56 x 10^22 and power law 3.45.
     * Est luminosity 9.2 x 10^30 erg/s at 2.55kpc.
+    * Need to check earlier obs where detected as source. Large change in flux? Spectral or luminosity?
 
 **0916811401**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -114,6 +123,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 387pc
     * Fit to spec with nH 0.89 x 10^22 and power law 6.80.
     * Est luminosity 3.22 x 10^31 erg/s at 387pc.
+    * Check for FFT and look at other time binning. Look at other XMM observations.
       
 + Source 3 - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard lightcurve.
@@ -123,6 +133,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 2.37kpc
     * Fit to spec with nH 2.1 x 10^22 and kT 2.47 keV.
     * Est luminosity 6.05 x 10^32 at 2.37kpc
+    * Need to check flux in previous XMM obs to determine rate of brightening. FLIX? Very hard source.
       
 + Source 17 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
@@ -131,6 +142,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 1.03kpc
     * Fit to spec with nH 1.0 x 10^13 and power law 1.01.
     * Est luminosity 1.97 x 10^31 erg/s at 1.03kpc.
+    * No exceptional features for further interest.
 
 **0916811901**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -141,6 +153,7 @@ No. true object alerts (total alerts):   23  (56)
     * Possible distance 387pc
     * Fit to spec with nH 0.54 x 10^22 and power law 4.33.
     * Est luminosity 2.98 x 10^31 erg/s at 387pc.
+    * Check for FFT and look at other time binning. Look at other XMM observations.
 
 **0932190601**
 + Source 2 - False detection. Artefact in image (reflection ring)
@@ -154,6 +167,7 @@ No. true object alerts (total alerts):   23  (56)
     * Fit to spec with nH 29 x 10^22, kT 0.615 keV and power law 0.363.
     * Strong line at approx 6.4keV in spectrum.
     * Est luminosity 3.9 x 10^34 erg/s at 7.5kpc.
+    * Very hard source. Check for any periodicities. Compare with previous XMM detection for rate of change of flux/spectrum.
 
 **0932190901**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -163,6 +177,7 @@ No. true object alerts (total alerts):   23  (56)
     * Binary system?
     * Fit to spectrum (v. poor quality fit) with nH 0.777 x 10^22, kT 8.36keV and power law 6.85.
     * Est luminosity 3.98 x 10^30 erg/s at 241pc.
+    * Investigate hard dip in lightcurve.
 
 **0932191001**
 + Source 43 - False detection. Artefact in image (reflection ring)
@@ -175,6 +190,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance 853pc.
     * Fit to spec with nH 4.93 x 10^19 and power law 1.957.
     * Est luminosity 4.22 x 10^31 erg/s at 853pc.
+    * No exceptional features for further interest.
 
 **0932200101**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -183,6 +199,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance 656pc.
     * Fit to spec with nH 6.22 x 10^19 and power law 0.555.
     * Estimated luminosity 2.61 x 10^31 erg/s at 656pc or 3.41 x 10^33 erg/s at 7.5kpc.
+    * No exceptional features for further interest.
       
 + Source 17 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
@@ -191,6 +208,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance to nearest Gaia 16.8kpc.
     * No good spectrum fit.
     * Luminosity estimate 1.198 x 10^34 erg/s at 16.8kpc or 2.39 x 10^33 at 7.5kpc.
+    * No exceptional features for further interest.
       
 + Source 49 - False detection. Artefact in image (reflection ring)
 + Source 61 - False detection. Artefact in image (reflection ring)
@@ -206,12 +224,14 @@ No. true object alerts (total alerts):   23  (56)
     * Flare in second half of obs?
     * Fit to spectrum with nH 0.95 x 10^22 and power law 1.782.
     * Estimated luminosity 1.94 x 10^33 erg/s at 7.5kpc.
+    * Hard source, check for FFT. Check different timescales. No good cross matches.
       
 + Source 156 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
     * Nearest Gaia 4069036657434660096 4.5", 4069036657428482048 8.8". X-ray pos error 0.77".
     * Fit to spectrum with nH 7.08 x 10^20 and power law 0.900.
     * Estimated luminosity 2.67 x 10^33 erg/s.
+    * No exceptional features for further interest.
       
 + Source 241 - False detection. Artefact in image (reflection ring)
 + Source 242 - False detection. Artefact in image (reflection ring)
@@ -225,6 +245,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance estimate 770pc.
     * Fit to spectrum with nH 0.846 x 10^22 and power law 5.08.
     * Estimated luminosity 8.88 x 10^30 erg/s at 770pc.
+    * Highly variable lightcurve. Need to compare to other XMM obs and reconsider source/bkg regions.
 
 **0934200501**
 + Source 18 - False detection. Artefact in image (reflection ring)
@@ -241,6 +262,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance estimate 5.76kpc.
     * Fit to spectrum with nH 0.67 x 10^22 and kT 1.00keV.
     * Estimated luminosity 8.864 x 10^32 erg/s at 5.76kpc.
+    * Need to check pervious observation to constrain change in luminosity/spectrum.
       
 + Source 11 - PN. Caution - Possible read-out line contamination. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
@@ -249,6 +271,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance estimate 6kpc.
     * Fit to spectrum with nH 1.04 x 10^22 and power law 2.12.
     * Estimated luminosity 3.46 x 10^32 erg/s at 6kpc.
+    * Need to check pervious observation to constrain change in luminosity/spectrum.
 
 **0934201001**
 + Source 19 - True source. M1 U5. Screenshot, lightcurve, and spectra created.
@@ -259,6 +282,7 @@ No. true object alerts (total alerts):   23  (56)
     * Distance estimate 972pc.
     * Fit to spectrum with nH 14.5 x 10^22 and kT 0.489keV.
     * Estimated luminosity 1.39 x 10^31 erg/s at 972pc or 8.28 x 10^32 erg/s at 7.5kpc.
+    * No exceptional features for further interest.
 
 **0934210201**
 + Source 9 - Likely false detection. Artefact in image (readout line).
