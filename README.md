@@ -16,7 +16,7 @@ No. observations with alerts (total observations) :		27  (84)
 
 No. true object alerts (total alerts):   23  (56)
 
-No. true objects of further interest (total true object alerts):   14   (23)
+No. true objects of further interest (total true object alerts):   15   (23)
 
 
 ### Individual Observation Analysis
@@ -282,7 +282,7 @@ No. true objects of further interest (total true object alerts):   14   (23)
     * Distance estimate 972pc.
     * Fit to spectrum with nH 14.5 x 10^22 and kT 0.489keV.
     * Estimated luminosity 1.39 x 10^31 erg/s at 972pc or 8.28 x 10^32 erg/s at 7.5kpc.
-    * No exceptional features for further interest.
+    * Check spectral changes with previous alert.
 
 **0934210201**
 + Source 9 - Likely false detection. Artefact in image (readout line).
