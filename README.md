@@ -95,13 +95,13 @@ No. true objects of further interest (total true object alerts):   15   (23)
 
 **0886110501**
 + Source 19 - True source. PN. Screenshot, lightcurve, and spectra created.
-    * Hard dip in lightcurve.
+    * Hard dip in lightcurve. Possibly background subtraction.
     * Also in XMM 0886090501 src 143 with no STONKS alert, and not detecetd as source in 0886110401.
     * First X-ray Detection? N. SIMBAD? N.
     * Nearest Gaia 4069071433795086592 0.4", 4069071433795086208 3.9". X-ray pos error 1.06".
     * Possible distance 107pc.
-    * Fit to spec with nH 53 x 10^22 and kT 0.419keV.
-    * Est luminosity 1.24 x 10^29 erg/s at 107pc.
+    * Fit to spec with nH 5.67 x 10^12 and power law 3.65.
+    * Est luminosity 6.0 x 10^28 erg/s at 107pc.
     * Need to check earlier observations. Increasing luminosity with time? Spectral changes? Hard dips?
 
 **0886110901**
