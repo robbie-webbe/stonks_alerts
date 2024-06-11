@@ -93,7 +93,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Possible distances 378pc or 9.6kpc.
     * Fit to spec with nH 3.1 x 10^17 and power law -0.517.
     * Est luminosity 7.2 x 10^30 erg/s at 378pc or 4.61 x 10^33 erg/s at 9.6kpc.
-    * No exceptional features for further interest. Could check position against other X-ray observatories? FLIX?
+    * No exceptional features for further interest. HILIGT gives no further information.
 
 **0886110501**
 + Source 19 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -105,7 +105,9 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Possible distance 107pc.
     * Fit to spec with nH 5.67 x 10^12 and power law 3.65.
     * Est luminosity 6.0 x 10^28 erg/s at 107pc.
-    * Need to check earlier observations. Increasing luminosity with time? Spectral changes? Hard dips?
+    * Need to check earlier observations. Decreasing luminosity with time? Spectral changes? Hard dips?
+    * In prior observation, 0886090501, source is slightly brighter (approx 10%). Spectra similar.
+    * No further actions to be taken.
 
 **0886110901**
 + Source 33 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -116,6 +118,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Fit to spec with nH 0.56 x 10^22 and power law 3.45.
     * Est luminosity 9.2 x 10^30 erg/s at 2.55kpc.
     * Need to check earlier obs where detected as source. Large change in flux? Spectral or luminosity?
+    * No information obtainable regarding earlier observation as source not in clean area on detector. No further actions.
 
 **0916811401**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -137,6 +140,10 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Fit to spec with nH 2.1 x 10^22 and kT 2.47 keV.
     * Est luminosity 6.05 x 10^32 at 2.37kpc
     * Need to check flux in previous XMM obs to determine rate of brightening. FLIX? Very hard source.
+    * Source is approx x10 fainter in observation 0916811501 approx 6 months before STONKS alert.
+    * In prior obs best fit is blackbody with kT 0.42keV.
+    * Possible transient source with hard bright periods, and 'quiescent' luminosity on order 10^-13 erg/s/cm^2.
+    * Of potential interest for monitoring. 
       
 + Source 17 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
@@ -249,6 +256,9 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Fit to spectrum with nH 0.846 x 10^22 and power law 5.08.
     * Estimated luminosity 8.88 x 10^30 erg/s at 770pc.
     * Highly variable lightcurve. Need to compare to other XMM obs and reconsider source/bkg regions.
+    * Src and bkg regions reasonable in original detection. Several periods of high background contamination.
+    * Examination of other observations reveals decline in luminosity over preceding 12 months to reach current low levels.
+    * Change to spectrum with power law index increasing with time.
 
 **0934200501**
 + Source 18 - False detection. Artefact in image (reflection ring)
@@ -267,6 +277,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Fit to spectrum with nH 0.67 x 10^22 and kT 1.00keV.
     * Estimated luminosity 8.864 x 10^32 erg/s at 5.76kpc.
     * Need to check pervious observation to constrain change in luminosity/spectrum.
+    * Not possible to create reliable source and background for previous observation. No further actions possible.
       
 + Source 11 - PN. Caution - Possible read-out line contamination. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
@@ -276,6 +287,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Fit to spectrum with nH 1.04 x 10^22 and power law 2.12.
     * Estimated luminosity 3.46 x 10^32 erg/s at 6kpc.
     * Need to check pervious observation to constrain change in luminosity/spectrum.
+    * Spectrum and lightcurves checked for 0886010101. Source already in low luminosity and softer spectral state by this point, 3 years before STONKS alert.
 
 **0934201001**
 + Source 19 - True source. M1 U5. Screenshot, lightcurve, and spectra created.
