@@ -76,13 +76,15 @@ No. true objects of further interest (total true object alerts):   15   (23)
 
 **0886101301**
 + Source 179 - True source. PN. Screenshot, lightcurve, and spectra created.
-    * Also in new XMM obs 0886090501 src 97, and 0932201101 src 336 but not STONKS alerts. 
+    * Also in new XMM obs 0886090501 src 97, and 0932201101 src 336 but not STONKS alerts.
+    * Src 336 in obs 0932201101 is indistinguishable from background.
     * First X-ray Detection? N. SIMBAD? N.
     * Nearest Gaia 4069056723517706368 1.8", 4069056727811793280 2.0". X-ray pos error 0.84".
     * Possible distance 1.53kpc.
     * Fit to spec with nH 0.52 x 10^22 and power law 2.55.
     * Est luminosity 7.77 x 10^31 at 1.53 kpc.
     * Need to check earlier observations. Increasing luminosity with time? Spectral changes?
+    * Source not identifiable in previous observation. No possible further actions related to long-term variability.
 
 **0886110301**
 + Source 51 - True source. M2. Screenshot, lightcurve, and spectra created.
@@ -96,7 +98,8 @@ No. true objects of further interest (total true object alerts):   15   (23)
 **0886110501**
 + Source 19 - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard dip in lightcurve. Possibly background subtraction.
-    * Also in XMM 0886090501 src 143 with no STONKS alert, and not detecetd as source in 0886110401.
+    * Also in XMM 0886090501 src 143 with no STONKS alert
+    * Off edge of detector and not detected as source in 0886110401.
     * First X-ray Detection? N. SIMBAD? N.
     * Nearest Gaia 4069071433795086592 0.4", 4069071433795086208 3.9". X-ray pos error 1.06".
     * Possible distance 107pc.
@@ -106,7 +109,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
 
 **0886110901**
 + Source 33 - True source. PN. Screenshot, lightcurve, and spectra created.
-    * Also in XMM 0886110501 src 61 with no STONKS alert.
+    * Also in XMM 0886110501 src 61 with no STONKS alert, although that detection is affected by readout lines.
     * First X-ray Detection? Y. SIMBAD? N.
     * Nearest Gaia 	4069175848735622272	8.0". X-ray pos error 1.22".
     * Possible distance 2.55kpc.
@@ -258,6 +261,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * First X-ray Detection? Y. SIMBAD? N.
     * Hard lightcurve.
     * Also XMM 0886010101 src 41 no STONKS alert.
+    * No identifiable source in observation with high background.
     * Nearest Gaia 4057036553166169600 0.9" X-ray pos error 0.56".
     * Distance estimate 5.76kpc.
     * Fit to spectrum with nH 0.67 x 10^22 and kT 1.00keV.
@@ -295,6 +299,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Distance estimate 1270pc.
     * Fit to spectrum with nH 6.9 x 10^22 and power law 2.43.
     * Estimated luminosity 3.4 x 10^31 erg/s at 1.27kpc and 1.19 x 10^33 erg/s at 7.5kpc.
+    * No exceptional features for further interest.
 
 **0934210501**
 + Source 25 - False detection. Artefact in image (out of time events)
