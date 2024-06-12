@@ -28,7 +28,8 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Gaia source 4067633238255477248. Distance 1.8kpc.
     * Fit to spec with nH 0.44 x 10^22, and power law 1.36.
     * Est luminosity 3.42 x 10^33 erg/s.
-    * To do - check for periodicity.
+    * HENDRICS - possible pulsation with frequency of 0.125mHz and so period of 7.98ks. Pulsation fraction of 29.1%.
+    * Pulse profile plot created.
 
 + Source 22 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
@@ -178,6 +179,11 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Strong line at approx 6.4keV in spectrum.
     * Est luminosity 3.9 x 10^34 erg/s at 7.5kpc.
     * Very hard source. Check for any periodicities. Compare with previous XMM detection for rate of change of flux/spectrum.
+    * Spectrum of earlier observation in 04/2020 very similar to that with alert in 09/2023.
+    * Both well fitted by tbabs*bbody with kT = 2.2 keV, and nH > 12 x 10^22 /cm2.
+    * Increase in luminosity by factor ~6 in period of 3 years up to potential luminosity ~10^34 erg/s if at 7.5kpc.
+    * Iron line significantly weaker during earlier observation.
+    * No pulsations or periodicity in observation 0844101101 or 0932190801.
 
 **0932190901**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -234,7 +240,8 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Flare in second half of obs?
     * Fit to spectrum with nH 0.95 x 10^22 and power law 1.782.
     * Estimated luminosity 1.94 x 10^33 erg/s at 7.5kpc.
-    * Hard source, check for FFT. Check different timescales. No good cross matches.
+    * Hard source. No good cross matches.
+    * Interesting source, but no further information available.
       
 + Source 156 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
