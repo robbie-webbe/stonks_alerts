@@ -14,7 +14,7 @@ Observations for the period from 01/07/2023 - present
 
 No. observations with alerts (total observations) :		27  (84)
 
-No. true object alerts (total alerts):   23  (56)
+No. true object alerts (total alerts):   24  (56)
 
 No. true objects of further interest (total true object alerts):   15   (23)
 
@@ -167,7 +167,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Check for FFT and look at other time binning. Look at other XMM observations.
 
 **0932190601**
-+ Source 2 - False detection. Artefact in image (reflection ring)
++ Source 2 - Real source, see analysis of 0932190901 src 001.
 
 **0932190801**
 + Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -194,6 +194,10 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Fit to spectrum (v. poor quality fit) with nH 0.777 x 10^22, kT 8.36keV and power law 6.85.
     * Est luminosity 3.98 x 10^30 erg/s at 241pc.
     * Investigate hard dip in lightcurve.
+    * Hard dip in lightcurve appears to be related to background subtraction, but regions are clear in images.
+    * Observation 0932190601, two days earlier appears even lower luminosity.
+    * Neither fit well to spectrum, although best are both bbody + powerlaw.
+    * Possible source has permanently dropped to lower luminosity and fluctuating at lower level?
 
 **0932191001**
 + Source 43 - False detection. Artefact in image (reflection ring)
