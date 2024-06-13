@@ -144,6 +144,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Source is approx x10 fainter in observation 0916811501 approx 6 months before STONKS alert.
     * In prior obs best fit is blackbody with kT 0.42keV.
     * Possible transient source with hard bright periods, and 'quiescent' luminosity on order 10^-13 erg/s/cm^2.
+    * X-ray to optical flux ratio is of order greater than 1, assuming closest gaia match.
     * Of potential interest for monitoring. 
       
 + Source 17 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -183,6 +184,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Both well fitted by tbabs*bbody with kT = 2.2 keV, and nH > 12 x 10^22 /cm2.
     * Increase in luminosity by factor ~6 in period of 3 years up to potential luminosity ~10^34 erg/s if at 7.5kpc.
     * Iron line significantly weaker during earlier observation.
+    * Low optical flux for closest gaia source. X-ray to optical flux ratio of order ~20.
     * No pulsations or periodicity in observation 0844101101 or 0932190801.
 
 **0932190901**
@@ -305,11 +307,15 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * First X-ray Detection? Y. SIMBAD? N.
     * Large hard variability.
     * Also XMM 0886040201 src 20 which has STONKS alert, and alert for spectrum.
+    * Also XMM obs 0934200401 src 3 without alert.
     * Nearest Gaia 4054631272700204672 4.0", 4054631272700205184 4.9". X-ray pos error 2.25".
     * Distance estimate 972pc.
     * Fit to spectrum with nH 14.5 x 10^22 and kT 0.489keV.
     * Estimated luminosity 1.39 x 10^31 erg/s at 972pc or 8.28 x 10^32 erg/s at 7.5kpc.
     * Check spectral changes with previous alert.
+    * Potential issues with read out lines in observation 0886040201 src 20.
+    * Potentially slightly more luminous during middle observation, 0934200401.
+    * Hard spectrum during all three observations.
 
 **0934210201**
 + Source 9 - Likely false detection. Artefact in image (readout line).
