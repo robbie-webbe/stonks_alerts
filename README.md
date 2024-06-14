@@ -14,15 +14,15 @@ Observations for the period from 01/07/2023 - present
 
 No. observations with alerts (total observations) :		27  (84)
 
-No. true object alerts (total alerts):   24  (56)
+No. true detection alerts (total alerts):   24  (56)
 
-No. true objects of further interest (total true object alerts):   15   (23)
+No. true detections of further interest (total true detection alerts):   15   (24)
 
 
 ### Individual Observation Analysis
 
 **0886090801**
-+ Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard lightcurve.
     * First X-ray Detection? N. SIMBAD? Be Star HD 162718.
     * Gaia source 4067633238255477248. Distance 1.8kpc.
@@ -122,7 +122,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * No information obtainable regarding earlier observation as source not in clean area on detector. No further actions.
 
 **0916811401**
-+ Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Soft lightcurve.
     * First X-ray Detection? N. SIMBAD? V* V1017 Sco. RS CVn Variable.
     * See also 0916811901 src 1.
@@ -132,7 +132,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Est luminosity 3.22 x 10^31 erg/s at 387pc.
     * Check for FFT and look at other time binning. Look at other XMM observations.
       
-+ Source 3 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 3** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard lightcurve.
     * First X-ray Detection? N. SIMBAD? N.
     * Also XMM 0916811501 scr 8 without STONKS alert.
@@ -157,7 +157,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * No exceptional features for further interest.
 
 **0916811901**
-+ Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Soft lightcurve.
     * First X-ray Detection? N. SIMBAD? V* V1017 Sco. RS CVn Variable.
     * See also 0916811401 src 1.
@@ -168,10 +168,10 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Check for FFT and look at other time binning. Look at other XMM observations.
 
 **0932190601**
-+ Source 2 - Real source, see analysis of 0932190901 src 001.
++ **Source 2** - Real source, see analysis of 0932190901 src 001.
 
 **0932190801**
-+ Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard lightcurve. Periodic?
     * First X-ray Detection? N. Possible SIMBAD IRAS 17474-2648 (3.78"). Unknown parallax.
     * Also XMM 0844101101 src 129 (F_x 9.7.x 10^-13) not on STONKS alerts docs. 
@@ -188,7 +188,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * No pulsations or periodicity in observation 0844101101 or 0932190801.
 
 **0932190901**
-+ Source 1 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard dips in lightcurve.
     * First X-ray Detection? N. SIMBAD? Star HD 314680B. Distance 241pc.
     * Nearest Gaia 4063715162892775936 0.25", 4063715158589050112 1.8" (SIMBAD HD 314680).
@@ -260,7 +260,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
 + Source 242 - False detection. Artefact in image (reflection ring)
 
 **0934200101**
-+ Source 30 - True source. PN. Screenshot, lightcurve, and spectra created.
++ **Source 30** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Large variability.
     * First X-ray Detection? N. SIMBAD? N.
     * Also XMM 0916800801 src 2, 0916800701 src 1 and 0916800401 src 7 before period of interest but no alerts.
@@ -292,7 +292,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Need to check pervious observation to constrain change in luminosity/spectrum.
     * Not possible to create reliable source and background for previous observation. No further actions possible.
       
-+ Source 11 - PN. Caution - Possible read-out line contamination. Screenshot, lightcurve, and spectra created.
++ **Source 11** - PN. Caution - Possible read-out line contamination. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
     * Also XMM 0886010101 src 7 no STONKS alert.
     * Nearest Gaia 4057030162253566336 1.2", 4057030166551252864 5.7". X-ray pos error 1.07".
@@ -303,7 +303,7 @@ No. true objects of further interest (total true object alerts):   15   (23)
     * Spectrum and lightcurves checked for 0886010101. Source already in low luminosity and softer spectral state by this point, 3 years before STONKS alert.
 
 **0934201001**
-+ Source 19 - True source. M1 U5. Screenshot, lightcurve, and spectra created.
++ **Source 19** - True source. M1 U5. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
     * Large hard variability.
     * Also XMM 0886040201 src 20 which has STONKS alert, and alert for spectrum.
