@@ -16,7 +16,9 @@ No. observations with alerts (total observations) :		27  (84)
 
 No. true detection alerts (total alerts):   24  (56)
 
-No. true detections of further interest (total true detection alerts):   15   (24)
+No. true detections of further interest (total true detection alerts):   16   (24)
+
+No. true detections of interest which could benefit from future monitoring:    10      (16)
 
 
 ### Individual Observation Analysis
@@ -30,6 +32,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Est luminosity 3.42 x 10^33 erg/s.
     * HENDRICS - possible pulsation with frequency of 0.125mHz and so period of 7.98ks. Pulsation fraction of 29.1%.
     * Pulse profile plot created.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 + Source 22 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
@@ -131,6 +136,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Fit to spec with nH 0.89 x 10^22 and power law 6.80.
     * Est luminosity 3.22 x 10^31 erg/s at 387pc.
     * Check for FFT and look at other time binning. Look at other XMM observations.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
       
 + **Source 3** - True source. PN. Screenshot, lightcurve, and spectra created.
     * Hard lightcurve.
@@ -145,7 +153,10 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * In prior obs best fit is blackbody with kT 0.42keV.
     * Possible transient source with hard bright periods, and 'quiescent' luminosity on order 10^-13 erg/s/cm^2.
     * X-ray to optical flux ratio is of order greater than 1, assuming closest gaia match.
-    * Of potential interest for monitoring. 
+    * Of potential interest for monitoring.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
       
 + Source 17 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
@@ -166,6 +177,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Fit to spec with nH 0.54 x 10^22 and power law 4.33.
     * Est luminosity 2.98 x 10^31 erg/s at 387pc.
     * Check for FFT and look at other time binning. Look at other XMM observations.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 **0932190601**
 + **Source 2** - Real source, see analysis of 0932190901 src 001.
@@ -186,6 +200,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Iron line significantly weaker during earlier observation.
     * Low optical flux for closest gaia source. X-ray to optical flux ratio of order ~20.
     * No pulsations or periodicity in observation 0844101101 or 0932190801.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 **0932190901**
 + **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -200,6 +217,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Observation 0932190601, two days earlier appears even lower luminosity.
     * Neither fit well to spectrum, although best are both bbody + powerlaw.
     * Possible source has permanently dropped to lower luminosity and fluctuating at lower level?
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 **0932191001**
 + Source 43 - False detection. Artefact in image (reflection ring)
@@ -272,6 +292,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Src and bkg regions reasonable in original detection. Several periods of high background contamination.
     * Examination of other observations reveals decline in luminosity over preceding 12 months to reach current low levels.
     * Change to spectrum with power law index increasing with time.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 **0934200501**
 + Source 18 - False detection. Artefact in image (reflection ring)
@@ -301,6 +324,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Estimated luminosity 3.46 x 10^32 erg/s at 6kpc.
     * Need to check pervious observation to constrain change in luminosity/spectrum.
     * Spectrum and lightcurves checked for 0886010101. Source already in low luminosity and softer spectral state by this point, 3 years before STONKS alert.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 **0934201001**
 + **Source 19** - True source. M1 U5. Screenshot, lightcurve, and spectra created.
@@ -316,6 +342,9 @@ No. true detections of further interest (total true detection alerts):   15   (2
     * Potential issues with read out lines in observation 0886040201 src 20.
     * Potentially slightly more luminous during middle observation, 0934200401.
     * Hard spectrum during all three observations.
+    * Check background region.
+    * Apec spectrum
+    * Rebin spectrum.
 
 **0934210201**
 + Source 9 - Likely false detection. Artefact in image (readout line).
