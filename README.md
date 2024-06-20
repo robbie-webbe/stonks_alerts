@@ -12,16 +12,39 @@ would ordinarily still be covered by a proprietary period.
 
 Observations for the period from 01/07/2023 - present
 
-No. observations with alerts (total observations) :		27  (84)
+No. observations with sources detected (total observations) : 83 (87)
 
-No. true detection alerts (total alerts):   24  (56)
+No. observations with alerts (total observations with alerts) :		33  (83)
 
-No. true detections of further interest (total true detection alerts):   16   (24)
+No. true detection alerts (total alerts):   29  (67)
 
-No. true detections of interest which could benefit from future monitoring:    10      (16)
+No. true detections of further interest (total true detection alerts):   17   (29)
+
+No. true detections of interest which could benefit from future monitoring:    11      (17)
 
 
 ### Individual Observation Analysis
+
+**0886090501**
++ Source 104 - False detection. Artefact in image (reflection ring)
++ Source 109 - False detection. Artefact in image (reflection ring)
+
++ Source 141 - True source. PN. Screenshot, lightcurve and spectra created.
+    * First X-ray Detection? Y. SIMBAD? N.
+    * Also in XMM 0886101301 src 179 and 0932201101 src 336 without alerts
+    * Nearest Gaia 4069056830905984640 4.6". X-ray pos error 1.54".
+    * Possible distance 2.83kpc.
+    * Fit to spec with nH 5.25 x 10^18 and power law 1.39.
+    * Est luminosity 8.6 x 10^33 erg/s at 2.83kpc, or 6.07 x 10^34 erg/s at 7.5kpc
+    * No exceptional features for further interest.
+   
++ Source 166 - True source. M2. Screenshot, lightcurve and spectra created.
+    * First X-ray Detection? Y. SIMBAD? N.
+    * Nearest Gaia 4069056586083083776 4.4". X-ray pos error 2.13".
+    * Possible distance 1.54kpc.
+    * Fit to spec with nH 53.18 x 10^22 and power law 2.88.
+    * Est luminosity 4.5 x 10^31 erg/s at 1.54kpc, or 1.07 x 10^33 erg/s at 7.5kpc
+    * No exceptional features for further interest.
 
 **0886090801**
 + **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -46,6 +69,10 @@ No. true detections of interest which could benefit from future monitoring:    1
 + Source 340 - False detection. Artefact in image (reflection ring)
 + Source 370 - False detection. Artefact in image (reflection ring)
 
+**0886091201**
++ Source 205 - False detection. Artefact in image (reflection ring)
++ Source 217 - False detection. Artefact in image (reflection ring)
+  
 **0886100201**
 + Source 79 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? Y. SIMBAD? N.
@@ -123,6 +150,17 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Est luminosity 9.2 x 10^30 erg/s at 2.55kpc.
     * Need to check earlier obs where detected as source. Large change in flux? Spectral or luminosity?
     * No information obtainable regarding earlier observation as source not in clean area on detector. No further actions.
+ 
+**0886121101**
++ Source 2 - True source. PN. Screenshot, lightcurve and spectra created.
+    * First X-ray Detection? Y. SIMBAD? N.
+    * Nearest Gaia 4057693206434583168 8.0". X-ray pos error 1.01".
+    * Possible distances 910pc.
+    * Fit to spec with nH 1.39 x 10^22 and kT 0.868keV.
+    * Est luminosity 1.5 x 10^31 erg/s at 910pc or 1.05 x 10^33 erg/s at 7.5kpc.
+    * No exceptional features for further interest.
+
++ Source 52 - False detection. Artefact in image (reflection ring)
 
 **0916811401**
 + **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -176,6 +214,9 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Apec spectrum
     * Rebin spectrum.
 
+**0932190501**
++ Source 25 - False detection. Artefact in image (read-out line)
+  
 **0932190601**
 + **Source 2** - Real source, see analysis of 0932190901 src 001.
 
@@ -284,11 +325,23 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Apec spectrum
     * Rebin spectrum.
 
+**0934200401**
++ Source 3 - See analysis of 0934201001 src 019.
+
 **0934200501**
 + Source 18 - False detection. Artefact in image (reflection ring)
 + Source 19 - False detection. Artefact in image (reflection ring)
 + Source 23 - False detection. Artefact in image (reflection ring)
 + Source 71 - False detection. Artefact in image (reflection ring)
+
+**0934200701**
++ Source 3 - True source. PN. Screenshot, lightcurve and spectra created.
+    * First X-ray Detection? Y. SIMBAD? N.
+    * Also XMM 0886011301 src 76, from before period of interest with flux 1.15 x 10^-14.
+    * No Gaia sources within 5 sigma.
+    * Fit to spectrum with nH 1.96 x 10^16 and power law 0.73.
+    * Estimated luminosity 2.7 x 10^33 erg/s at 7.5kpc.
+    * No exceptional features for further interest.
 
 **0934200801**
 + Source 5 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -320,7 +373,7 @@ No. true detections of interest which could benefit from future monitoring:    1
     * First X-ray Detection? Y. SIMBAD? N.
     * Large hard variability.
     * Also XMM 0886040201 src 20 which has STONKS alert, and alert for spectrum.
-    * Also XMM obs 0934200401 src 3 without alert.
+    * Also XMM obs 0934200401 src 3 with alert.
     * Nearest Gaia 4054631272700204672 4.0", 4054631272700205184 4.9". X-ray pos error 2.25".
     * Distance estimate 972pc.
     * Fit to spectrum with nH 14.5 x 10^22 and kT 0.489keV.
