@@ -32,7 +32,6 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Est luminosity 3.42 x 10^33 erg/s.
     * HENDRICS - possible pulsation with frequency of 0.125mHz and so period of 7.98ks. Pulsation fraction of 29.1%.
     * Pulse profile plot created.
-    * Apec spectrum
     * Rebin spectrum.
 
 + Source 22 - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -144,16 +143,16 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Also XMM 0916811501 scr 8 without STONKS alert.
     * Nearest Gaia 5975866351469811456 7.4". X-ray pos error 0.62".
     * Possible distance 2.37kpc
-    * Fit to spec with nH 2.1 x 10^22 and kT 2.47 keV.
-    * Est luminosity 6.05 x 10^32 at 2.37kpc
+    * Fit to spec with nH 5.2 x 10^22 and kT 1.9 keV. (Galactic nH value is 1.4 x 10^22).
+    * Flux 7.22 x 10^-13. Est luminosity 6.05 x 10^32 at 2.37kpc
     * Need to check flux in previous XMM obs to determine rate of brightening. FLIX? Very hard source.
-    * Source is approx x10 fainter in observation 0916811501 approx 6 months before STONKS alert.
-    * In prior obs best fit is blackbody with kT 0.42keV.
+    * Source is approx x5 fainter in observation 0822210101 approx 4.5 years before STONKS alert.
+    * Source is approx x30 fainter in observation 0916811501 approx 6 months before STONKS alert.
+    * In obs 0822210101 best fit is blackbody with nH 3 x 10^22 and kT 2.3keV. Flux 1.10 x 10^-13
+    * In obs 0916811501 best fit is blackbody with nH 7 x 10^22 and kT 0.35keV. Flux 2.04 x 10^-14
     * Possible transient source with hard bright periods, and 'quiescent' luminosity on order 10^-13 erg/s/cm^2.
-    * X-ray to optical flux ratio is of order greater than 1, assuming closest gaia match.
+    * X-ray to optical flux ratio is of order greater than 1, assuming closest gaia match, likely much higher.
     * Of potential interest for monitoring.
-    * Apec spectrum
-    * Rebin spectrum.
       
 + Source 17 - True source. PN. Screenshot, lightcurve, and spectra created.
     * First X-ray Detection? N. SIMBAD? N.
@@ -196,8 +195,6 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Iron line significantly weaker during earlier observation.
     * Low optical flux for closest gaia source. X-ray to optical flux ratio of order ~20.
     * No pulsations or periodicity in observation 0844101101 or 0932190801.
-    * Apec spectrum
-    * Rebin spectrum.
 
 **0932190901**
 + **Source 1** - True source. PN. Screenshot, lightcurve, and spectra created.
@@ -212,8 +209,6 @@ No. true detections of interest which could benefit from future monitoring:    1
     * Observation 0932190601, two days earlier appears even lower luminosity.
     * Neither fit well to spectrum, although best are both bbody + powerlaw.
     * Possible source has permanently dropped to lower luminosity and fluctuating at lower level?
-    * Apec spectrum
-    * Rebin spectrum.
 
 **0932191001**
 + Source 43 - False detection. Artefact in image (reflection ring)
