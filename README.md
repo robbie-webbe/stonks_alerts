@@ -4,6 +4,8 @@ This github will host analyses of the STONKS alerts associated with observations
 
 We focus initially on the MYHPs as they allow for data to be public far sooner than regular observing cycles. As such, a timely analysis will allow for fast follow-up of alerts of interest in a much faster fashion and could allow for the identification of new medium-term transient sources which could still be evolving. All details of the analysis and sources of interest will be listed in the wiki pages for this git.
 
-The initial analysis focused on all alerts obtained between 01/07/2023 and 30/06/2024, and demonstrated there was significant potential for the detection of new sources.
+All observation source lists are contained within the "OBSMLI" directory and appropriate sub-directories. The associated STONKS alerts, as obtained from https://xcatdb.unistra.fr/stonks/ are then located within the "alert_docs" directory and associated sub-directories.
 
-The secondary analysis will focus in greater detail on all alerts from the first completed MYHP.
+The initial analysis focused on all alerts obtained between 01/07/2023 and 30/06/2024, and demonstrated there was significant potential for the detection of new sources. This analysis is contained in the directory "alert_docs/GP_Ponti_12month_focus" and sub-directories within.
+
+The secondary analysis will focus in greater detail on all alerts from the first completed MYHP, and will be contained in the "alert_docs/GalPlane" directory and sub-directories.
