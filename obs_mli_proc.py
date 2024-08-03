@@ -11,7 +11,7 @@ obslist_files = 'obslist_myhp_gpponti.csv'
 run_datetime = dt.now()
 
 # set a start date for observations to download OBSMLIs (for now set a start time of 1st July 2023 for last 12 months)
-start_date = dt.fromisoformat('2023-07-01 00:00:00.000')
+start_date = dt.fromisoformat('2000-01-01 00:00:00.000')
 
 # open the observation details file as a dataframe
 obs_detail_df = pd.read_csv(obslist_files, dtype=object, usecols=[0,5,11], header=0, names=['OBSID','START DATE','PROP END DATE'])
