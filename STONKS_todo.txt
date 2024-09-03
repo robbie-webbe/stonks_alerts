@@ -1,0 +1,10 @@
+Excel tracking
+
+Create lightcurves
+Create energy spectra
+
+Check bright objects for total counts.
+
+Create gaia, 2MASS and AllWISE images for target areas
+
+Check WISE for no counterpart
