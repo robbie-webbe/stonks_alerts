@@ -6,6 +6,8 @@ We focus initially on the MYHPs as they allow for data to be public far sooner t
 
 All observation source lists are contained within the "OBSMLI" directory and appropriate sub-directories. The associated STONKS alerts, as obtained from https://xcatdb.unistra.fr/stonks/ are then located within the "alert_docs" directory and associated sub-directories.
 
-The initial analysis focused on all alerts obtained between 01/07/2023 and 30/06/2024, and demonstrated there was significant potential for the detection of new sources. This analysis is contained in the directory "alert_docs/GP_Ponti_12month_focus" and sub-directories within.
+The initial analysis focused on all alerts obtained between 01/07/2023 and 30/06/2024, and demonstrated there was significant potential for the detection of new sources of interest to the astrophysics community. This analysis is contained in the directory "alert_docs/GP_Ponti_12month_focus" and sub-directories within.
 
 The secondary analysis will focus in greater detail on all alerts from the first completed MYHP, and will be contained in the "alert_docs/GalPlane" directory and sub-directories.
+
+The following analysis will focus on all alerts from the second, currently active, MYHP, and will be contained in the "alert_docs/EuClusts" directory and sub-directories.
