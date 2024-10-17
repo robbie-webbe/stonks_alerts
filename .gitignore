@@ -2,5 +2,6 @@ alert_docs/GP_Ponti/0932190801_001/0932190801_PN1_src_xmm_epn_det02_accelsearch.
 alert_docs/*/*/*.rmf
 alert_docs/*/*/pps/*.rmf
 alert_docs/*/*/ariadnefit/*.pkl
+alert_docs/*/*/*evts.fits
 
 STONKS_todo.txt
