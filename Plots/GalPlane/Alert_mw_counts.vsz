@@ -1,0 +1,675 @@
+# Veusz saved document (version 3.6.2)
+# Saved at 2024-11-18T10:27:28.097463
+
+SetCompatLevel(1)
+AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
+ImportString('mir(numeric)','''
+nan
+nan
+nan
+nan
+1.000000e+01
+nan
+nan
+7.300000e+00
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+9.600000e+00
+1.140000e+01
+nan
+8.600000e+00
+nan
+nan
+1.170000e+01
+nan
+nan
+5.500000e+00
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+9.000000e+00
+1.010000e+01
+9.800000e+00
+nan
+nan
+4.600000e+00
+4.600000e+00
+4.600000e+00
+nan
+nan
+nan
+nan
+8.200000e+00
+8.200000e+00
+nan
+8.300000e+00
+nan
+nan
+nan
+nan
+7.500000e+00
+nan
+nan
+nan
+1.100000e+01
+9.700000e+00
+nan
+nan
+''')
+ImportString('nir(numeric)','''
+nan
+nan
+nan
+nan
+1.400000e+01
+nan
+nan
+8.200000e+00
+1.540000e+01
+nan
+nan
+nan
+nan
+1.380000e+01
+1.290000e+01
+1.360000e+01
+1.390000e+01
+nan
+nan
+1.300000e+01
+1.580000e+01
+nan
+1.430000e+01
+1.430000e+01
+1.530000e+01
+nan
+nan
+1.190000e+01
+1.250000e+01
+1.250000e+01
+1.490000e+01
+1.620000e+01
+1.670000e+01
+1.070000e+01
+1.260000e+01
+1.530000e+01
+9.600000e+00
+1.310000e+01
+nan
+1.270000e+01
+nan
+1.520000e+01
+6.900000e+00
+nan
+nan
+nan
+nan
+1.230000e+01
+nan
+1.340000e+01
+1.270000e+01
+1.060000e+01
+1.250000e+01
+nan
+1.550000e+01
+5.900000e+00
+5.900000e+00
+5.900000e+00
+nan
+1.400000e+01
+nan
+nan
+nan
+nan
+1.580000e+01
+1.050000e+01
+nan
+nan
+nan
+nan
+9.000000e+00
+1.420000e+01
+1.350000e+01
+1.225000e+01
+1.526000e+01
+1.310000e+01
+nan
+nan
+''')
+ImportString('opt(numeric)','''
+2.080000e+01
+nan
+nan
+nan
+nan
+nan
+nan
+9.600000e+00
+nan
+2.000000e+01
+1.840000e+01
+1.840000e+01
+1.840000e+01
+1.860000e+01
+1.720000e+01
+1.580000e+01
+1.780000e+01
+nan
+nan
+1.860000e+01
+nan
+nan
+1.590000e+01
+1.590000e+01
+2.020000e+01
+nan
+nan
+1.370000e+01
+1.970000e+01
+1.970000e+01
+nan
+nan
+nan
+1.370000e+01
+1.520000e+01
+nan
+1.170000e+01
+1.670000e+01
+nan
+1.550000e+01
+nan
+2.110000e+01
+8.400000e+00
+nan
+1.970000e+01
+1.550000e+01
+2.090000e+01
+1.530000e+01
+nan
+1.960000e+01
+1.990000e+01
+1.190000e+01
+1.890000e+01
+2.050000e+01
+1.870000e+01
+7.600000e+00
+7.600000e+00
+7.600000e+00
+nan
+1.620000e+01
+nan
+nan
+1.290000e+01
+1.290000e+01
+nan
+1.270000e+01
+nan
+nan
+nan
+nan
+1.130000e+01
+1.780000e+01
+1.840000e+01
+1.640000e+01
+nan
+1.990000e+01
+nan
+1.790000e+01
+''')
+ImportString('xray(numeric)','''
+2.580000e+00
+2.460000e+00
+9.000000e-01
+1.600000e+00
+4.570000e+00
+2.080000e+00
+2.350000e+00
+2.800000e-01
+4.120000e+00
+1.850000e+00
+1.540000e+00
+5.020000e+00
+3.030000e+00
+2.200000e+00
+4.300000e-01
+2.590000e+00
+1.180000e+00
+1.300000e+00
+1.450000e+00
+8.300000e-01
+7.100000e-01
+1.430000e+00
+1.300000e+00
+4.000000e-01
+1.370000e+00
+9.100000e-01
+3.630000e+00
+5.000000e-02
+3.310000e+00
+3.140000e+00
+6.600000e-01
+1.950000e+00
+1.450000e+00
+9.800000e-01
+1.800000e-01
+3.530000e+00
+5.900000e-01
+1.900000e-01
+2.860000e+00
+9.400000e-01
+1.150000e+00
+1.690000e+00
+9.700000e+01
+2.820000e+00
+2.950000e+00
+7.220000e+00
+2.480000e+00
+2.900000e-01
+1.020000e+00
+3.270000e+01
+2.930000e+00
+5.000000e-01
+2.380000e+01
+6.500000e-01
+2.950000e+00
+1.680000e+01
+1.730000e+01
+2.400000e+01
+9.760000e+00
+2.430000e+00
+2.840000e+01
+3.090000e+00
+1.420000e+00
+1.430000e+00
+5.540000e+01
+4.130000e+00
+3.440000e+00
+2.760000e+00
+3.080000e+00
+2.450000e+00
+1.320000e+00
+3.760000e+00
+2.000000e+00
+4.200000e-01
+8.220000e+00
+2.070000e+00
+2.550000e+00
+4.880000e+00
+''')
+Set('colorTheme', 'default-latest')
+Set('StyleSheet/axis-function/autoRange', 'next-tick')
+Add('page', name='page1', autoadd=False)
+To('page1')
+Set('width', '25cm')
+Set('height', '25cm')
+Add('grid', name='grid1', autoadd=False)
+To('grid1')
+Set('rows', 4)
+Set('columns', 4)
+Add('graph', name='graph1', autoadd=False)
+To('graph1')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 0.05)
+Set('max', 100.0)
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+Set('TickLabels/hide', True)
+Set('MajorTicks/hide', False)
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'xray')
+Set('scaling', 'log')
+To('..')
+To('..')
+Add('graph', name='graph2', autoadd=False)
+To('graph2')
+Set('hide', True)
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+To('..')
+Add('graph', name='graph3', autoadd=False)
+To('graph3')
+Set('hide', True)
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+To('..')
+Add('graph', name='graph4', autoadd=False)
+To('graph4')
+Set('hide', True)
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+To('..')
+Add('graph', name='graph5', autoadd=False)
+To('graph5')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 0.05)
+Set('max', 100.0)
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('label', 'm_{G}')
+Set('min', 22.5)
+Set('max', 7.5)
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('markerSize', '2pt')
+Set('xData', 'xray')
+Set('yData', 'opt')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+Set('MarkerFill/transparency', 0)
+To('..')
+To('..')
+Add('graph', name='graph6', autoadd=False)
+To('graph6')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 22.5)
+Set('max', 7.5)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'opt')
+To('..')
+To('..')
+Add('graph', name='graph7', autoadd=False)
+To('graph7')
+Set('hide', True)
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+To('..')
+Add('graph', name='graph8', autoadd=False)
+To('graph8')
+Set('hide', True)
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+To('..')
+Add('graph', name='graph9', autoadd=False)
+To('graph9')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 0.05)
+Set('max', 100.0)
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('label', 'm_{J}')
+Set('min', 17.5)
+Set('max', 5.0)
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('markerSize', '2pt')
+Set('xData', 'xray')
+Set('yData', 'nir')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+Set('MarkerFill/transparency', 0)
+To('..')
+To('..')
+Add('graph', name='graph10', autoadd=False)
+To('graph10')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 22.5)
+Set('max', 7.5)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('min', 17.5)
+Set('max', 5.0)
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('markerSize', '2pt')
+Set('xData', 'opt')
+Set('yData', 'nir')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+Set('MarkerFill/transparency', 0)
+To('..')
+To('..')
+Add('graph', name='graph11', autoadd=False)
+To('graph11')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 17.5)
+Set('max', 5.0)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'nir')
+To('..')
+To('..')
+Add('graph', name='graph12', autoadd=False)
+To('graph12')
+Set('hide', True)
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('direction', 'vertical')
+To('..')
+To('..')
+Add('graph', name='graph13', autoadd=False)
+To('graph13')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'Flux (10^{-13} erg s^{-1} cm^{-2})')
+Set('min', 0.05)
+Set('max', 100.0)
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('label', 'm_{W_1}')
+Set('min', 12.5)
+Set('max', 2.5)
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('markerSize', '2pt')
+Set('xData', 'xray')
+Set('yData', 'mir')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+Set('MarkerFill/transparency', 0)
+To('..')
+To('..')
+Add('graph', name='graph14', autoadd=False)
+To('graph14')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'm_G')
+Set('min', 22.5)
+Set('max', 7.5)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('min', 12.5)
+Set('max', 2.5)
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('markerSize', '2pt')
+Set('xData', 'opt')
+Set('yData', 'mir')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+Set('MarkerFill/transparency', 0)
+To('..')
+To('..')
+Add('graph', name='graph15', autoadd=False)
+To('graph15')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'm_{J}')
+Set('min', 17.5)
+Set('max', 5.0)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('min', 12.5)
+Set('max', 2.5)
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('markerSize', '2pt')
+Set('xData', 'nir')
+Set('yData', 'mir')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+Set('MarkerFill/transparency', 0)
+Set('MarkerFill/hide', False)
+To('..')
+To('..')
+Add('graph', name='graph16', autoadd=False)
+To('graph16')
+Set('leftMargin', '0cm')
+Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
+Set('bottomMargin', '0cm')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('Line/hide', False)
+Set('Label/hide', False)
+Set('TickLabels/hide', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('min', 12.5)
+Set('max', 2.5)
+Set('direction', 'vertical')
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'mir')
+Set('direction', 'horizontal')
+To('..')
+To('..')
+To('..')
+To('..')

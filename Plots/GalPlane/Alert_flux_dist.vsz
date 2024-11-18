@@ -1,0 +1,155 @@
+# Veusz saved document (version 3.6.2)
+# Saved at 2024-11-18T09:15:28.698099
+
+SetCompatLevel(1)
+AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
+ImportString('flux_all(numeric)','''
+2.580000e+00
+2.460000e+00
+9.000000e-01
+1.600000e+00
+4.570000e+00
+2.080000e+00
+2.350000e+00
+2.800000e-01
+4.120000e+00
+1.850000e+00
+1.540000e+00
+5.020000e+00
+3.030000e+00
+2.200000e+00
+4.300000e-01
+2.590000e+00
+1.180000e+00
+1.300000e+00
+1.450000e+00
+8.300000e-01
+7.100000e-01
+1.430000e+00
+1.300000e+00
+4.000000e-01
+1.370000e+00
+9.100000e-01
+3.630000e+00
+5.000000e-02
+3.310000e+00
+3.140000e+00
+6.600000e-01
+1.950000e+00
+1.450000e+00
+9.800000e-01
+1.800000e-01
+3.530000e+00
+5.900000e-01
+1.900000e-01
+2.860000e+00
+9.400000e-01
+1.150000e+00
+1.690000e+00
+9.700000e+01
+2.820000e+00
+2.950000e+00
+7.220000e+00
+2.480000e+00
+2.900000e-01
+1.020000e+00
+3.270000e+01
+2.930000e+00
+5.000000e-01
+2.380000e+01
+6.500000e-01
+2.950000e+00
+1.680000e+01
+1.730000e+01
+2.400000e+01
+9.760000e+00
+2.430000e+00
+2.840000e+01
+3.090000e+00
+1.420000e+00
+1.430000e+00
+5.540000e+01
+4.130000e+00
+3.440000e+00
+2.760000e+00
+3.080000e+00
+2.450000e+00
+1.320000e+00
+3.760000e+00
+2.000000e+00
+4.200000e-01
+8.220000e+00
+2.070000e+00
+2.550000e+00
+4.880000e+00
+''')
+Set('colorTheme', 'default-latest')
+Set('StyleSheet/axis-function/autoRange', 'next-tick')
+Add('page', name='page1', autoadd=False)
+To('page1')
+Add('graph', name='graph1', autoadd=False)
+To('graph1')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'X-ray Flux (10^{-13} erg s^{-1} cm^{-2})')
+Set('min', 0.05)
+Set('max', 200.0)
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('label', 'Number of Alerts')
+Set('max', 20.0)
+Set('direction', 'vertical')
+To('..')
+Add('function', name='function1', autoadd=False)
+To('function1')
+Set('function', '2.44')
+Set('variable', 'y')
+Set('key', 'Median')
+Set('Line/color', 'foreground')
+Set('Line/width', '1pt')
+To('..')
+Add('function', name='function2', autoadd=False)
+To('function2')
+Set('function', '5.98')
+Set('variable', 'y')
+Set('color', 'black')
+Set('key', 'Mean')
+Set('Line/width', '1pt')
+Set('Line/style', 'dash-dot-fine')
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('color', 'red')
+Set('data', 'flux_all')
+Set('binning', 'auto')
+Set('scaling', 'log')
+Set('Fill1/color', 'red')
+To('..')
+Add('function', name='function3', autoadd=False)
+To('function3')
+Set('function', '20')
+Set('key', '')
+Set('min', 0.2627)
+Set('max', 24.66)
+Set('Line/color', 'blue')
+Set('Line/width', '10pt')
+Set('Line/transparency', 50)
+Set('Line/hide', True)
+Set('FillBelow/color', 'blue')
+Set('FillBelow/hide', False)
+Set('FillBelow/transparency', 50)
+To('..')
+Add('key', name='key1', autoadd=False)
+To('key1')
+Set('Border/width', '0pt')
+Set('Border/hide', True)
+Set('horzPosn', 'manual')
+Set('vertPosn', 'top')
+Set('horzManual', 0.74)
+Set('vertManual', 0.0)
+Set('marginSize', 0.5)
+To('..')
+To('..')
+To('..')
