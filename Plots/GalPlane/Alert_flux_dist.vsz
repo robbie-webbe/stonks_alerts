@@ -1,5 +1,5 @@
 # Veusz saved document (version 3.6.2)
-# Saved at 2024-11-18T09:15:28.698099
+# Saved at 2024-11-19T09:30:55.029330
 
 SetCompatLevel(1)
 AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
@@ -112,7 +112,7 @@ Set('Line/width', '1pt')
 To('..')
 Add('function', name='function2', autoadd=False)
 To('function2')
-Set('function', '5.98')
+Set('function', '2.23')
 Set('variable', 'y')
 Set('color', 'black')
 Set('key', 'Mean')

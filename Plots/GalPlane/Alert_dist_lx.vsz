@@ -1,0 +1,222 @@
+# Veusz saved document (version 3.6.2)
+# Saved at 2024-11-28T11:25:50.108689
+
+SetCompatLevel(1)
+AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
+ImportString('dist(numeric)','''
+5.000000e-02
+6.400000e-01
+9.700000e-01
+1.660000e+00
+1.600000e+00
+1.040000e+00
+1.880000e+00
+1.410000e+00
+8.700000e-01
+4.200000e-01
+1.050000e+00
+3.000000e-02
+1.600000e+00
+8.400000e-01
+2.220000e+00
+2.470000e+00
+1.800000e+00
+1.230000e+00
+1.530000e+00
+3.800000e-01
+1.100000e-01
+1.530000e+00
+3.600000e-01
+1.090000e+00
+3.600000e-01
+3.900000e-01
+1.030000e+00
+2.400000e-01
+8.500000e-01
+7.700000e-01
+1.420000e+00
+5.760000e+00
+4.150000e+00
+3.640000e+00
+3.470000e+00
+''')
+ImportString('lx_no_dist(numeric)','''
+3.305000e+01
+3.297000e+01
+3.280000e+01
+3.295000e+01
+3.364000e+01
+3.324000e+01
+3.332000e+01
+3.299000e+01
+3.281000e+01
+3.303000e+01
+3.279000e+01
+3.309000e+01
+3.271000e+01
+3.338000e+01
+3.265000e+01
+3.307000e+01
+3.308000e+01
+3.291000e+01
+3.290000e+01
+3.307000e+01
+3.325000e+01
+3.301000e+01
+3.305000e+01
+3.445000e+01
+3.408000e+01
+3.356000e+01
+3.422000e+01
+3.296000e+01
+3.356000e+01
+3.356000e+01
+3.316000e+01
+3.318000e+01
+3.348000e+01
+3.346000e+01
+3.316000e+01
+''')
+ImportString('lx_with_dist(numeric)','''
+2.785000e+01
+3.071000e+01
+3.132000e+01
+3.182000e+01
+3.173000e+01
+3.133000e+01
+3.160000e+01
+3.104000e+01
+3.049000e+01
+2.982000e+01
+3.138000e+01
+2.786000e+01
+3.028000e+01
+3.067000e+01
+3.152000e+01
+3.161000e+01
+3.352000e+01
+3.162000e+01
+3.200000e+01
+3.084000e+01
+2.939000e+01
+3.216000e+01
+2.979000e+01
+3.036000e+01
+3.072000e+01
+3.146000e+01
+3.140000e+01
+3.002000e+01
+3.127000e+01
+3.109000e+01
+3.163000e+01
+3.280000e+01
+3.196000e+01
+3.241000e+01
+3.381000e+01
+''')
+Set('width', '35cm')
+Set('height', '12cm')
+Set('colorTheme', 'default-latest')
+Set('StyleSheet/axis-function/autoRange', 'next-tick')
+Add('page', name='page1', autoadd=False)
+To('page1')
+Add('grid', name='grid1', autoadd=False)
+To('grid1')
+Set('rows', 1)
+Set('columns', 3)
+Set('leftMargin', '0.2cm')
+Set('bottomMargin', '0.2cm')
+Add('graph', name='graph3', autoadd=False)
+To('graph3')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'Distance (kpc)')
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('max', 12.0)
+Set('direction', 'vertical')
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'dist')
+Set('scaling', 'log')
+To('..')
+Add('label', name='label1', autoadd=False)
+To('label1')
+Set('label', 'a)')
+Set('xPos', [0.03])
+Set('yPos', [0.95])
+To('..')
+To('..')
+Add('graph', name='graph1', autoadd=False)
+To('graph1')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'Distance (kpc)')
+Set('min', 0.025)
+Set('max', 8.0)
+Set('log', True)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('label', 'log(L_{X}) (erg s^{-1})')
+Set('direction', 'vertical')
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('xData', 'dist')
+Set('yData', 'lx_with_dist')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', True)
+To('..')
+Add('label', name='label1', autoadd=False)
+To('label1')
+Set('label', 'b)')
+Set('xPos', [0.03])
+Set('yPos', [0.95])
+To('..')
+To('..')
+Add('graph', name='graph2', autoadd=False)
+To('graph2')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'log(L_{X}) (erg s^{-1})')
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('max', 12.0)
+Set('direction', 'vertical')
+To('..')
+Add('histo', name='histo2', autoadd=False)
+To('histo2')
+Set('data', 'lx_with_dist')
+Set('key', 'D Est')
+Set('Line/hide', True)
+Set('Fill1/color', 'red')
+Set('Fill1/transparency', 50)
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'lx_no_dist')
+Set('key', 'No D Est')
+Set('Line/hide', True)
+Set('Fill1/color', 'theme2')
+Set('Fill1/transparency', 50)
+To('..')
+Add('key', name='key1', autoadd=False)
+To('key1')
+Set('Border/hide', True)
+Set('horzPosn', 'left')
+Set('vertPosn', 'top')
+To('..')
+Add('label', name='label1', autoadd=False)
+To('label1')
+Set('label', 'c)')
+Set('xPos', [0.03])
+Set('yPos', [0.95])
+To('..')
+To('..')
+To('..')
+To('..')
