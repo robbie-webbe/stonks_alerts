@@ -4,5 +4,6 @@ alert_docs/*/*/pps/*.rmf
 alert_docs/*/*/ariadnefit/*.pkl
 alert_docs/*/*/*evts.fits
 alert_docs/*/*/other_obs/*.rmf
+alert_docs/*/*/*/*evts.fits
 
 STONKS_todo.txt
