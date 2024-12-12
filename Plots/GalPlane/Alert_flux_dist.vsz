@@ -1,5 +1,5 @@
 # Veusz saved document (version 3.6.2)
-# Saved at 2024-11-19T09:30:55.029330
+# Saved at 2024-12-11T11:29:08.573928
 
 SetCompatLevel(1)
 AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
@@ -139,7 +139,7 @@ Set('Line/transparency', 50)
 Set('Line/hide', True)
 Set('FillBelow/color', 'blue')
 Set('FillBelow/hide', False)
-Set('FillBelow/transparency', 50)
+Set('FillBelow/transparency', 75)
 To('..')
 Add('key', name='key1', autoadd=False)
 To('key1')
