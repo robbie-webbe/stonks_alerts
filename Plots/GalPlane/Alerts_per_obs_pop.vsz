@@ -1,5 +1,5 @@
 # Veusz saved document (version 3.6.2)
-# Saved at 2024-12-11T15:36:39.275878
+# Saved at 2025-03-27T14:56:00.683902
 
 SetCompatLevel(1)
 AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
@@ -25,6 +25,7 @@ ImportString('Population(numeric)','''
 1.000000e+00
 4.000000e+00
 ''')
+Set('height', '10cm')
 Set('colorTheme', 'default-latest')
 Set('StyleSheet/axis-function/autoRange', 'next-tick')
 Add('page', name='page1', autoadd=False)

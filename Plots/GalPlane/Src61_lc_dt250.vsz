@@ -1,5 +1,5 @@
 # Veusz saved document (version 3.6.2)
-# Saved at 2024-12-09T11:08:27.014810
+# Saved at 2025-03-28T11:09:09.486301
 
 SetCompatLevel(1)
 AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
@@ -8,6 +8,7 @@ Set('colorTheme', 'default-latest')
 Set('StyleSheet/axis-function/autoRange', 'next-tick')
 Add('page', name='page1', autoadd=False)
 To('page1')
+Set('height', '12cm')
 Add('graph', name='graph1', autoadd=False)
 To('graph1')
 Add('axis', name='x', autoadd=False)

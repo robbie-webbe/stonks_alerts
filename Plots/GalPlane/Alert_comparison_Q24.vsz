@@ -1,0 +1,75 @@
+# Veusz saved document (version 3.6.2)
+# Saved at 2025-03-28T07:49:36.353533
+
+SetCompatLevel(1)
+AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
+SetDataText('Labels', [
+    'Alert/Obs',
+    'FD',
+    'High',
+    'Low',
+    'PV',
+])
+ImportString('Q24(numeric)','''
+6.520000e-01
+1.810000e-01
+1.650000e-01
+2.160000e-01
+4.380000e-01
+''')
+ImportString('`This work (All)`(numeric)','''
+6.170000e-01
+6.270000e-01
+2.040000e-01
+1.060000e-01
+6.300000e-02
+''')
+ImportString('`This work (True)`(numeric)','''
+3.390000e-01
+3.210000e-01
+3.720000e-01
+1.920000e-01
+1.150000e-01
+''')
+Set('height', '12cm')
+Set('colorTheme', 'default-latest')
+Set('StyleSheet/axis-function/autoRange', 'next-tick')
+Add('page', name='page1', autoadd=False)
+To('page1')
+Add('graph', name='graph1', autoadd=False)
+To('graph1')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('min', 0.5)
+Set('max', 5.5)
+Set('mode', 'labels')
+Set('TickLabels/color', 'auto')
+Set('TickLabels/hide', False)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('label', '')
+Set('min', 0.0)
+Set('max', 0.8)
+Set('direction', 'vertical')
+To('..')
+Add('bar', name='bar1', autoadd=False)
+To('bar1')
+Set('lengths', ('Q24', 'This work (All)', 'This work (True)'))
+Set('keys', ('Q24', 'This Work (All)', 'This Work (True)'))
+Set('labels', 'Labels')
+Set('barfill', 0.7)
+Set('groupfill', 0.8)
+Set('BarFill/fills', [('solid', 'foreground', False), ('forward double', 'red', False, 0, '2pt', 'solid', '5pt', 'background', 0, True), ('double cross', 'blue', False, 0, '1pt', 'solid', '5pt', 'background', 0, True)])
+Set('BarLine/lines', [])
+To('..')
+Add('key', name='key1', autoadd=False)
+To('key1')
+Set('Border/hide', True)
+Set('horzPosn', 'right')
+Set('vertPosn', 'top')
+Set('horzManual', 0.0)
+Set('vertManual', 0.0)
+To('..')
+To('..')
+To('..')

@@ -1,9 +1,10 @@
 # Veusz saved document (version 3.6.2)
-# Saved at 2024-12-11T08:22:46.151763
+# Saved at 2025-03-28T10:39:14.318235
 
 SetCompatLevel(1)
 AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
 ImportFileCSV('../../alert_docs/GalPlane/Source 01 - 4XMM J173828.0-292842/src1_pulse_profile.csv', linked=True, numericlocale='C', readrows=True, renames={'row1': 'phase', 'row2': 'profile', 'row3': 'prof_err'})
+Set('height', '10cm')
 Set('colorTheme', 'default-latest')
 Set('StyleSheet/axis-function/autoRange', 'next-tick')
 Add('page', name='page1', autoadd=False)
