@@ -1,8 +1,80 @@
 # Veusz saved document (version 3.6.2)
-# Saved at 2025-03-28T07:55:02.746101
+# Saved at 2025-05-21T12:40:10.470284
 
 SetCompatLevel(1)
 AddImportPath('/home/rwebbe/Gits/STONKS_alerts/Plots/GalPlane')
+ImportString('all_flux(numeric)','''
+2.580000e+00
+2.460000e+00
+8.990000e-01
+1.600000e+00
+4.570000e+00
+2.220000e+00
+2.750000e-01
+4.120000e+00
+1.850000e+00
+3.200000e+00
+2.200000e+00
+4.310000e-01
+2.590000e+00
+1.180000e+00
+1.300000e+00
+1.450000e+00
+8.330000e-01
+7.140000e-01
+1.430000e+00
+8.475000e-01
+1.370000e+00
+9.130000e-01
+3.630000e+00
+5.110000e-02
+3.220000e+00
+6.600000e+00
+1.950000e+00
+1.450000e+00
+9.800000e-01
+1.820000e-01
+3.350000e+00
+5.880000e-01
+1.930000e-01
+2.860000e+00
+9.350000e-01
+1.150000e+00
+1.690000e+00
+9.700000e+01
+2.820000e+00
+2.950000e+00
+7.220000e+00
+2.480000e+00
+2.940000e-01
+1.020000e-01
+3.720000e+01
+2.930000e+00
+5.040000e-01
+2.380000e+01
+6.490000e-01
+2.950000e+00
+1.937000e+01
+9.760000e+00
+2.430000e+00
+2.840000e+01
+3.090000e+00
+1.425000e+00
+5.540000e+01
+4.130000e+00
+3.440000e+00
+2.760000e+00
+3.080000e+00
+2.450000e+00
+1.320000e+00
+3.760000e+00
+2.000000e+00
+4.170000e+00
+8.220000e+00
+2.070000e+00
+2.550000e+00
+4.880000e+00
+''')
 ImportString('dist(numeric)','''
 5.000000e-02
 6.400000e-01
@@ -39,6 +111,80 @@ ImportString('dist(numeric)','''
 4.150000e+00
 3.640000e+00
 3.470000e+00
+''')
+ImportString('fx_no_dist(numeric)','''
+2.580000e+00
+2.460000e+00
+8.990000e-01
+1.600000e+00
+4.570000e+00
+2.220000e+00
+4.120000e+00
+1.300000e+00
+1.450000e+00
+7.140000e-01
+1.430000e+00
+1.370000e+00
+9.130000e-01
+3.630000e+00
+6.600000e+00
+1.950000e+00
+1.450000e+00
+3.350000e+00
+2.860000e+00
+1.150000e+00
+1.690000e+00
+2.820000e+00
+1.020000e-01
+3.720000e+01
+2.380000e+01
+9.760000e+00
+2.840000e+01
+3.090000e+00
+5.540000e+01
+3.440000e+00
+2.760000e+00
+3.080000e+00
+2.450000e+00
+8.220000e+00
+2.550000e+00
+''')
+ImportString('fx_with_dist(numeric)','''
+2.750000e-01
+1.850000e+00
+3.200000e+00
+2.200000e+00
+4.310000e-01
+2.590000e+00
+1.180000e+00
+8.330000e-01
+8.500000e-01
+5.000000e-02
+3.230000e+00
+9.800000e-01
+1.820000e-01
+5.880000e-01
+1.930000e-01
+9.350000e-01
+9.700000e+01
+2.950000e+00
+7.220000e+00
+2.480000e+00
+2.940000e-01
+2.930000e+00
+5.040000e-01
+6.490000e-01
+2.950000e+00
+1.937000e+01
+2.430000e+00
+1.425000e+00
+4.130000e+00
+1.320000e+00
+3.760000e+00
+2.000000e+00
+4.170000e+00
+2.070000e+00
+4.880000e+00
 ''')
 ImportString('lx_no_dist(numeric)','''
 3.305000e+01
@@ -126,7 +272,70 @@ Set('rows', 1)
 Set('columns', 3)
 Set('leftMargin', '0cm')
 Set('rightMargin', '0cm')
+Set('topMargin', '0cm')
 Set('bottomMargin', '0cm')
+Add('graph', name='graph2', autoadd=False)
+To('graph2')
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', 'F_{X} (10^{-13} erg cm^{-2} s^{-1})')
+Set('log', True)
+Set('direction', 'horizontal')
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('max', 14.0)
+Set('direction', 'vertical')
+Set('MajorTicks/number', 7)
+To('..')
+Add('histo', name='histo2', autoadd=False)
+To('histo2')
+Set('data', 'fx_with_dist')
+Set('key', 'D Est')
+Set('binning', 'constant')
+Set('manual', [0.05, 0.1, 0.5, 1.0, 5.0, 10.0, 50.0, 100.0])
+Set('scaling', 'log')
+Set('Line/hide', True)
+Set('Fill1/color', 'red')
+Set('Fill1/transparency', 50)
+To('..')
+Add('histo', name='histo1', autoadd=False)
+To('histo1')
+Set('data', 'fx_no_dist')
+Set('key', 'No D Est')
+Set('scaling', 'log')
+Set('Line/hide', True)
+Set('Fill1/color', 'theme2')
+Set('Fill1/transparency', 50)
+To('..')
+Add('key', name='key1', autoadd=False)
+To('key1')
+Set('Border/hide', True)
+Set('horzPosn', 'left')
+Set('vertPosn', 'top')
+To('..')
+Add('label', name='label1', autoadd=False)
+To('label1')
+Set('label', 'a)')
+Set('xPos', [0.03])
+Set('yPos', [0.95])
+To('..')
+Add('function', name='function1', autoadd=False)
+To('function1')
+Set('function', '1.79')
+Set('variable', 'y')
+Set('color', 'red')
+Set('Line/width', '1pt')
+To('..')
+Add('function', name='function2', autoadd=False)
+To('function2')
+Set('function', '2.90')
+Set('variable', 'y')
+Set('color', 'red')
+Set('Line/color', 'blue')
+Set('Line/width', '1pt')
+To('..')
+To('..')
 Add('graph', name='graph3', autoadd=False)
 To('graph3')
 Add('axis', name='x', autoadd=False)
@@ -146,7 +355,7 @@ Set('scaling', 'log')
 To('..')
 Add('label', name='label1', autoadd=False)
 To('label1')
-Set('label', 'a)')
+Set('label', 'b)')
 Set('xPos', [0.03])
 Set('yPos', [0.95])
 To('..')
@@ -171,46 +380,6 @@ Set('xData', 'dist')
 Set('yData', 'lx_with_dist')
 Set('PlotLine/hide', True)
 Set('MarkerLine/hide', True)
-To('..')
-Add('label', name='label1', autoadd=False)
-To('label1')
-Set('label', 'b)')
-Set('xPos', [0.03])
-Set('yPos', [0.95])
-To('..')
-To('..')
-Add('graph', name='graph2', autoadd=False)
-To('graph2')
-Add('axis', name='x', autoadd=False)
-To('x')
-Set('label', 'log(L_{X}) (erg s^{-1})')
-To('..')
-Add('axis', name='y', autoadd=False)
-To('y')
-Set('max', 12.0)
-Set('direction', 'vertical')
-To('..')
-Add('histo', name='histo2', autoadd=False)
-To('histo2')
-Set('data', 'lx_with_dist')
-Set('key', 'D Est')
-Set('Line/hide', True)
-Set('Fill1/color', 'red')
-Set('Fill1/transparency', 50)
-To('..')
-Add('histo', name='histo1', autoadd=False)
-To('histo1')
-Set('data', 'lx_no_dist')
-Set('key', 'No D Est')
-Set('Line/hide', True)
-Set('Fill1/color', 'theme2')
-Set('Fill1/transparency', 50)
-To('..')
-Add('key', name='key1', autoadd=False)
-To('key1')
-Set('Border/hide', True)
-Set('horzPosn', 'left')
-Set('vertPosn', 'top')
 To('..')
 Add('label', name='label1', autoadd=False)
 To('label1')

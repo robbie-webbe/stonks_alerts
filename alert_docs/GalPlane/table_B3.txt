@@ -1,0 +1,108 @@
+Appendix Table B3
+
+No. & Alert & MW (O/N/M) & $d$ (kpc) & $log(L_X)$ & $log(F_X/F_{\text{Opt}})$ & Short Variable & Spectrum & $kT$ & $kT_2$ & $kT_3$ & Abund & $\alpha$ & Src Class & Quality \\
+\hline
+1 & FD & O & -- & 33.05 & 0.46 & Y & \texttt{bremss} & 1.22 & -- & -- & -- & -- & CV & F \\
+2 & FD & -- & -- & 32.97 & $\geq$0.35 & N & \texttt{bbody} & 1.20 & -- & -- & -- & -- & XRB & ? \\
+3 & FD & -- & -- & 32.80 & $\geq$0.18 & N & \texttt{ap} & 43.25 & -- & -- & 1.0 & -- & Star & ? \\
+4 & H & -- & -- & 32.95 & $\geq$0.33 & N & \texttt{powerlaw} & -- & -- & -- & -- & 1.42 & XRB & ? \\
+5 & FD & N/M & -- & 33.64 & $\geq$1.01 & N & \texttt{bb + pl} & 0.22 & -- & -- & -- & 1.07 & XRB & ? \\
+\multirow{2}{*}{6} & H & \multirow{2}{*}{--} & \multirow{2}{*}{--} & 33.06 & $\geq$0.43 & N & \texttt{bbody} & 2.25 & -- & -- & -- & -- & \multirow{2}{*}{XRB} & \multirow{2}{*}{?} \\
+ & H &  &  & 33.43 & $\geq$0.81 & N & \texttt{bbody} & 2.66 & -- & -- & -- & -- &  &  \\
+7 & L & O/N/M & 0.05 & 27.85 & -4.87 & Y & \texttt{apec} & 0.27 & -- & -- & 1.0 & -- & Star & F \\
+8 & FD & N & -- & 33.32 & $\geq$0.69 & N & \texttt{powerlaw} & -- & -- & -- & -- & 1.12 & XRB & ? \\
+9 & FD & O & 0.64 & 30.71 & -0.01 & Y & \texttt{bremss} & 4.61 & -- & -- & -- & -- & CV & F \\
+\multirow{3}{*}{10} & FD & \multirow{3}{*}{O} & \multirow{3}{*}{0.97} & 31.10 & -0.63 & N & \texttt{ap + ap} & 0.04 & 5.38 & -- & 1.0 & -- & \multirow{3}{*}{Star} & \multirow{3}{*}{?} \\
+& FD &  &  & 31.51 & -0.22 & N & \texttt{apec} & 17.13 & -- & -- & 1.0 & -- &  &  \\
+& FD &  &  & 31.33 & -0.40 & N & \texttt{apec} & 10.48 & -- & -- & 1.0 & -- &  &  \\
+11 & H & O/N & 1.66 & 31.82 & -0.30 & Y & \texttt{apec} & 7.82 & -- & -- & 1.0 & -- & Star & F \\
+12 & L & O/N & 1.60 & 31.73 & -0.90 & N & \texttt{apec} & 3.96 & -- & -- & 1.0 & -- & Star & F \\
+13 & H & O/N & 1.04 & 31.33 & -1.49 & Y & \texttt{apec} & 4.29 & -- & -- & 1.0 & -- & Star & F \\
+14 & PV & O/N & 1.88 & 31.60 & -0.93 & -- & \texttt{apec} & 4.42 & -- & -- & 1.0 & -- & Star & F \\
+15 & H & -- & -- & 32.99 & $\geq$2.51 & N & \texttt{powerlaw} & -- & -- & -- & -- & 0.95 & XRB & ? \\
+16 & H & -- & -- & 32.81 & $\geq$0.18 & N & \texttt{apec} & 3.51 & -- & -- & 1.0 & -- & Star & ? \\
+17 & PV & O/N & 1.41 & 31.04 & -0.92 & N & \texttt{apec} & 1.18 & -- & -- & 1.0 & -- & Star & ? \\
+18 & PV & N & -- & 33.03 & $\geq$0.40 & N & \texttt{raymond} & 8.32 & -- & -- & 0.3 & -- & YSO & F \\
+19 & FD & -- & -- & 32.79 & $\geq$0.16 & Y & \texttt{bremss} & 2.09 & -- & -- & -- & -- & CV & ? \\
+\multirow{2}{*}{20} & PV & \multirow{2}{*}{O/N} & \multirow{2}{*}{0.87} & 30.63 & -1.97 & Y & \texttt{bremss} & 4.09 & -- & -- & -- & -- & \multirow{2}{*}{\hfil CV} & \multirow{2}{*}{\hfil F} \\
+& L &  &  & 30.34 & -2.27 & Y & \texttt{bremss} & 0.80 & -- & -- & -- & -- &  &  \\
+% 21 & H & O/N & -- & 33.09 & 0.27 & N & \texttt{raymond} & 63.99 & -- & -- & 0.3 & -- & YSO & ? \\
+% 22 & H & -- & -- & 32.71 & $\geq$0.08 & Y & \texttt{bbody} & 1.74 & -- & -- & -- & -- & XRB & ? \\
+% 23 & H & -- & -- & 33.38 & $\geq$0.75 & Y & \texttt{bbody} & 2.43 & -- & -- & -- & -- & XRB & F \\
+% 24 & L & O/N & 0.42 & 29.82 & -3.08 & N & \texttt{apec} & 4.00 & -- & -- & 1.0 & -- & Star & ? \\
+% \multirow{2}{*}{25} & H & \multirow{2}{*}{O/N} & \multirow{2}{*}{1.05} & 31.26 & -0.01 & N & \texttt{raymond} & 3.72 & -- & -- & -- & -- & \multirow{2}{*}{YSO} & \multirow{2}{*}{?} \\
+% & H &  &  & 31.50 & 0.23 & N & \texttt{raymond} & 64.00 & -- & -- & 0.3 & 0.71 &  &  \\
+\hline
+\end{tabular}
+\end{sidewaystable*}
+
+% \begin{sidewaystable*}
+% \ContinuedFloat
+% \centering
+% \caption{Continued: Classifications of X-ray selected STONKS alert sources. We list here the STONKS alert  class and available multi-wavelength counterparts to the X-ray sources. Distance measures ($d$) are reported in units of kpc, and the luminosity estimates ($log(L_X)$) are calculated using these distances in units of erg\,s$^{-1}$. Where no distance estimate is provided, luminosities are estimated using a distance of 8\,kpc, the approximate distance to the Galactic centre. The column $log(F_X/F_{\text{Opt}})$ reports the X-ray-to-optical flux ratio, or the lower limit of such if there is no optical counterpart with a detection limit of $m_G$ 20.7. The Short Variable column indicates those sources where significant variability was detected within the lightcurve of the source for which the alert was created. The Spectrum column indicates the model which best characterises the source in the context of its classification. The $kT$ (also $kT_2$ and $kT_3$), Abundance, and $\alpha$ columns indicate the characteristic temperature(s), solar abundance as fixed for model fitting, or power law index derived from the spectral fit as required. The final two columns indicate the likely source class, and the strength of this classification (F - Firm, ? - Provisional).}
+% \label{tab:app_all_class2}
+% \begin{tabular}{ccccccccccccccc}
+% \hline\hline
+% No. & Alert & MW (O/N/M) & $d$ (kpc) & $log(L_X)$ & $log(F_X/F_{\text{Opt}})$ & Short Variable & Spectrum & $kT$ & $kT_2$ & $kT_3$ & Abund & $\alpha$ & Src Class & Quality \\
+% \hline
+% 26 & H & N & -- & 32.65 & $\geq$0.02 & N & \texttt{apec} & 19.25 & -- & -- & 0.3 & -- & YSO & ? \\
+% 27 & H & N & -- & 33.07 & $\geq$0.45 & Y & \texttt{raymond} & 7.94 & -- & -- & 0.3 & -- & YSO & F \\
+% 28 & H & N & -- & 33.08 & $\geq$0.46 & N & \texttt{raymond} & 57.25 & -- & -- & 0.3 & -- & YSO & ? \\
+% 29 & L & O/N/M & 0.03 & 27.86 & -2.68 & N & \texttt{ap+ap+ap} & 0.05 & 0.31 & 1.18 & 1.0 & -- & Star & F \\
+% 30 & L & O/N/M & 1.60 & 30.28 & -3.13 & N & \texttt{apec} & 1.08 & -- & -- & 1.0 & -- & Star & F \\
+% 31 & PV & N & -- & 32.91 & $\geq$0.28 & N & \texttt{raymond} & 24.59 & -- & -- & 0.3 & -- & YSO & ? \\
+% 32 & L & O/N/M & 0.84 & 30.67 & -3.59 & N & \texttt{ap + ap} & 0.19 & 1.29 & -- & 1.0 & -- & Star & F \\
+% 33 & PV & O/N & 2.22 & 31.52 & -1.24 & N & \texttt{apec} & 1.18 & -- & -- & 1.0 & -- & Star & F \\
+% 34 & H & -- & -- & 32.90 & $\geq$0.28 & N & \texttt{apec} & 1.02 & -- & -- & 1.0 & -- & Star & ? \\
+% 35 & H & O/N/M & 2.47 & 31.61 & -2.08 & N & \texttt{apec} & 7.63 & -- & -- & 1.0 & -- & Star & F \\
+% 36 & FD & -- & -- & 33.07 & $\geq$0.45 & N & \texttt{bb+bremss} & 0.02 & 8.61 & -- & -- & -- & CV & ? \\
+% 37 & FD & O/N & -- & 33.25 & 0.77 & N & \texttt{raymond} & 1.54 & -- & -- & 0.3 & -- & YSO & F \\
+% 38 & H & O/N/M & 1.80 & 33.52 & -2.73 & Y & \texttt{bb+pl+gauss} & 0.63 & 6.7 & -- & -- & 1.31 & $\gamma$-Cas & F \\
+% 39 & FD & -- & -- & 33.01 & $\geq$0.39 & Y & \texttt{bbody} & 1.34 & -- & -- & -- & -- & XRB & ? \\
+% 40 & FD & O & 1.23 & 31.62 & 0.22 & Y & \texttt{bremss} & 4.54 & -- & -- & -- & -- & CV & ? \\
+% 41 & H & O & 1.53 & 32.00 & -1.28 & N & \texttt{apec} & 4.77 & -- & -- & -- & -- & Star & ? \\
+% 42 & FD & O & 0.38 & 30.84 & 0.79 & N & \texttt{bb + pl} & 29.73 & -- & -- & -- & 3.04 & XRB & ? \\
+% 43 & L & O/N & 0.11 & 29.39 & -1.65 & N & \texttt{apec} & 0.13 & -- & -- & 1.0 & -- & Star & F \\
+% 44 & FD & -- & -- & 33.05 & $\geq$0.42 & N & \texttt{bremss} & 1.39 & -- & -- & -- & -- & CV & ? \\
+% 45 & H & O/N & -- & 34.45 & 1.39 & Y & \texttt{bb + bb} & 10.87 & 49.91 & -- & -- & -- & Magnetar & F \\
+% 46 & FD & O/N/M & 1.53 & 32.16 & 0.66 & N & \texttt{bremss} & 3.70 & -- & -- & -- & -- & CV & ? \\
+% 47 & PV & O/N/M & 0.36 & 29.79 & -3.68 & N & \texttt{apec} & 0.19 & -- & -- & 1.0 & -- & Star & F \\
+% 48 & PV & O/N/M & -- & 34.08 & 0.74 & N & \texttt{bbody} & 1.70 & -- & -- & -- & -- & HM XRB & F \\
+% 49 & H & O & 1.09 & 30.36 & -1.90 & N & \texttt{apec} & 0.49 & -- & -- & 1.0 & -- & Star & F \\
+% 50 & FD & O/N & 0.36 & 30.72 & -0.04 & Y & \texttt{apec} & 7.69 & -- & -- & 1.0 & -- & Star & F \\
+% \hline
+% \end{tabular}
+% \end{sidewaystable*}
+
+% \begin{sidewaystable*}
+% \ContinuedFloat
+% \centering
+% \caption{Continued: Classifications of X-ray selected STONKS alert sources. We list here the STONKS alert  class and available multi-wavelength counterparts to the X-ray sources. Distance measures ($d$) are reported in units of kpc, and the luminosity estimates ($log(L_X)$) are calculated using these distances in units of erg\,s$^{-1}$. Where no distance estimate is provided, luminosities are estimated using a distance of 8\,kpc, the approximate distance to the Galactic centre. The column $log(F_X/F_{\text{Opt}})$ reports the X-ray-to-optical flux ratio, or the lower limit of such if there is no optical counterpart with a detection limit of $m_G$ 20.7. The Short Variable column indicates those sources where significant variability was detected within the lightcurve of the source for which the alert was created. The Spectrum column indicates the model which best characterises the source in the context of its classification. The $kT$ (also $kT_2$ and $kT_3$), Abundance, and $\alpha$ columns indicate the characteristic temperature(s), solar abundance as fixed for model fitting, or power law index derived from the spectral fit as required. The final two columns indicate the likely source class, and the strength of this classification (F - Firm, ? - Provisional).}
+% \label{tab:app_all_class3}
+% \begin{tabular}{ccccccccccccccc}
+% \hline\hline
+% No. & Alert & MW (O/N/M) & $d$ (kpc) & $log(L_X)$ & $log(F_X/F_{\text{Opt}})$ & Short Variable & Spectrum & $kT$ & $kT_2$ & $kT_3$ & Abund & $\alpha$ & Src Class & Quality \\
+% \hline
+% \multirow{3}{*}{51} & L & \multirow{3}{*}{\hfil O/N/M} & \multirow{3}{*}{\hfil 0.39} & 31.48 & -3.75 & Y & \texttt{ap+ap+ap} & 0.11 & 0.64 & 1.11 & 1.0 & -- & \multirow{3}{*}{\hfil RS CVn} & \multirow{3}{*}{\hfil F} \\
+% & L &  &  & 31.40 & -3.83 & Y & \texttt{ap+ap+ap} & 0.26 & 0.94 & 2.05 & 1.0 & -- &  &  \\
+% & L &  &  & 31.50 & -3.73 & Y & \texttt{ap+ap+ap} & 0.33 & 0.96 & 2.46 & 1.0 & -- &  &  \\
+% 52 & H & -- & -- & 33.56 & $\geq$0.93 & Y & \texttt{bb + gauss} & 2.38 & 6.7 & -- & -- & -- & XRB & F \\
+% 53 & H & O/N & 1.03 & 31.40 & -1.24 & N & \texttt{apec} & 0.65 & -- & -- & 1.0 & -- & Star & ? \\
+% 54 & H & -- & -- & 34.22 & $\geq$1.59 & Y & \texttt{powerlaw} & -- & -- & -- & -- & 1.34 & XRB & F \\
+% 55 & H & -- & -- & 32.96 & $\geq$0.34 & N & \texttt{powerlaw} & -- & -- & -- & -- & 0.85 & XRB & ? \\
+% \multirow{2}{*}{56} & L & \multirow{2}{*}{O/M} & \multirow{2}{*}{0.24} & 30.22 & -2.47 & N & \texttt{ap + ap} & 0.11 & 5.92 & -- & 1.0 & -- & \multirow{2}{*}{\hfil Star} & \multirow{2}{*}{\hfil F} \\
+% & L &  &  & 29.83 & -2.87 & N & \texttt{ap + ap} & 0.10 & 0.34 & -- & 1.0 & -- &  &  \\
+% 57 & H & N & -- & 33.56 & $\geq$0.93 & Y & \texttt{pl + gauss} & 6.7 & -- & -- & -- & 1.27 & XRB & F \\
+% 58 & L & O/N/M & 0.85 & 31.27 & -2.63 & N & \texttt{bremss} & 1.96 & -- & -- & -- & -- & CV & ? \\
+% 59 & FD & -- & -- & 33.56 & $\geq$0.93 & N & \texttt{bbody} & 1.13 & -- & -- & -- & -- & XRB & F \\
+% 60 & FD & -- & -- & 33.16 & $\geq$0.54 & N & \texttt{bbody} & 1.18 & -- & -- & -- & -- & XRB & ? \\
+% 61 & H & -- & -- & 33.18 & $\geq$0.55 & Y & \texttt{bremss} & 7.08 & -- & -- & -- & -- & CV & F \\
+% 62 & FD & -- & -- & 33.48 & $\geq$0.86 & N & \texttt{powerlaw} & -- & -- & -- & -- & 2.35 & XRB & F \\
+% 63 & L & O/N/M & 0.77 & 31.09 & -3.25 & N & \texttt{ap + ap} & 1.03 & 3.95 & -- & 1.0 & -- & Star & F \\
+% 64 & FD & O/N & 1.42 & 31.63 & -0.65 & N & \texttt{apec} & 3.28 & -- & -- & 1.0 & -- & Star & F \\
+% 65 & FD & O/N & 5.76 & 32.80 & -0.46 & N & \texttt{apec} & 4.24 & -- & -- & 1.0 & -- & Star & F \\
+% 66 & PV & O/N & 4.15 & 31.96 & -1.82 & N & \texttt{apec} & 1.94 & -- & -- & 1.0 & -- & Star & F \\
+% 67 & FD & N/M & -- & 33.46 & $\geq$0.84 & Y & \texttt{raymond} & 1.45 & -- & -- & 0.3 & -- & YSO & F \\
+% 68 & H & O/N/M & 3.64 & 32.41 & 0.14 & N & \texttt{apec} & 3.43 & -- & -- & 1.0 & -- & Star & F \\
+% 69 & H & -- & -- & 33.16 & $\geq$0.54 & Y & \texttt{powerlaw} & -- & -- & -- & -- & 1.92 & XRB & ? \\
+% 70 & FD & O & 3.47 & 33.81 & 0.79 & N & \texttt{bb + br} & 0.06 & 2.00 & -- & -- & -- & CV  & ? \\
